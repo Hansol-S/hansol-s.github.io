@@ -53,4 +53,7 @@ dt {
 .no-bullet {
   list-style: none;
   padding-left: 0px;
+  ul {
+    margin-bottom: 2px;
+  }
 }
