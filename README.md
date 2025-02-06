@@ -6,26 +6,6 @@
 <p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
 <p class="text-center" id="small_link">links &nbsp;&nbsp;|&nbsp;&nbsp; links &nbsp;&nbsp;|&nbsp;&nbsp; ...</p>
 
-### Expriences
-<dl>
-    <dt>2024.01 - present</dt>
-    <dd><strong>Researcher</strong> at ETRI</dd>
-    <dt>2023.09 - 2023.12</dt>
-    <dd><strong>Assistant Researcher</strong> at ETRI</dd>
-    <dt>2022.03 - 2023.08</dt>
-    <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
-</dl>
-
-## Expriences
-<dl>
-    <dt>2024.01 - present</dt>
-    <dd><strong>Researcher</strong> at ETRI</dd>
-    <dt>2023.09 - 2023.12</dt>
-    <dd><strong>Assistant Researcher</strong> at ETRI</dd>
-    <dt>2022.03 - 2023.08</dt>
-    <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
-</dl>
-
 # Exprience
 <dl>
     <dt>2024.01 - present</dt>
@@ -64,14 +44,24 @@
 | 2022.03 - 2023.08 | <strong>Assistant Reseracher</strong> at Seoul National Univ. |
 
 # Exprience
-|:-------|:-----------:|   
+| | |
+|-------|----------|   
 | 2024.01 - present | <strong>Researcher</strong> at ETRI |   
 | 2023.09 - 2023.12 | <strong>Assistant Researcher</strong> at ETRI |    
 | 2022.03 - 2023.08 | <strong>Assistant Reseracher</strong> at Seoul National Univ. |
 
 # Education
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
-
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 
 
