@@ -5,7 +5,7 @@ baseurl:             ""
 markdown:            kramdown
 highlighter:         rouge
 
-exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+exclude:             ['*.sublime-*', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
 
 permalink:           pretty
 paginate:            5
