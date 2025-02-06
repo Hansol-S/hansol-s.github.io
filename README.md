@@ -46,10 +46,16 @@
 1. **신한솔** & 박철수 (2017), 랜덤 포레스트와 데이터 전처리를 이용한 냉동기 기계학습 모델 개발, *대한건축학회 논문집-구조계*, 33(9), 67-74; doi: [10.5659/JAIK_SC.2017.33.9.67](https://doi.org/10.5659/JAIK_SC.2017.33.9.67)
 1. 안기언, 김영민, 김용세, 윤성환, **신한솔**, & 박철수 (2016), 기존 건축물을 위한 건물 에너지 프로파일링 시스템 개발, *대한건축학회 논문집-구조계*, 32(12), 77-87; doi: [10.5659/JAIK_SC.2016.32.12.77](https://doi.org/10.5659/JAIK_SC.2016.32.12.77)
 
-### <summary>International conference</summary>
-
+### <details><summary>International conference</summary>
 1. Yoo, Y.S., **Shin, H.**, Kim, D.W. and **Park, C.S.** (2023), Performance Gap Analysis in The Context of Building Energy Efficiency Certificate in South Korea, Proceedings of the 18th IBPSA conference, September 4-6, Shanghai, China
+</details>
+
+
+### <details><summary>International conference</summary>
+
 1. **Shin, H.** and Park, C.S. (2022), GAN-based parameter estimation of building energy model, Proceedings of the 2022 ASHRAE Annual Conference, June 25-29, Toronto, Canada
+</details>
+
 1. Ra, S.J., **Shin, H.S.** and Park, C.S. (2021), Real-time Model Predictive Control for a Factory Building using Lumped Approach, Proceedings of the 2021 Winter Simulation Conference, December 13-17, Phoenix, Arizona, USA
 1. **Shin, H.** and Park, C.S. (2021), Parameter estimation of building energy simulation model using GRcGAN, Proceedings of the 12th International Symposium on Heating, Ventilation and Air Conditioning (ISHVAC 2021), November 24-26, Seoul, South Korea, pp.832-833 (Virtual Conference)
 1. Cho, S., **Shin, H.S.**, Choi, Y., Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference, December 14-18, Orlando, USA (Virtual Conference)
@@ -62,6 +68,7 @@
 1. Ahn, K.U., **Shin, H.S.**, Park, C.S., and Kim, K.W. (2017), Big-data Analysis on Energy Consumption of Office Buildings in Seoul, Korea, Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association), August 7-9, San Francisco, California, USA., pp.1825-1832
 1. **Shin, H.S.**, and Park, C.S. (2017), Comparison of three random forest models of a chiller, Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association), August 7-9, San Francisco, California, USA., pp.1881-1886
 1. Ahn, K.U., **Shin, H.S.** and Park, C.S. (2016), Big-data analysis on energy consumption of office buildings in Seoul, Proceedings of the 3rd Asia conference of International Building Performance Simulation Association, November 27-29, Jeju, Republic of Korea
+</details>
 
 # celeste
 
