@@ -26,7 +26,7 @@
     <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
 </dl>
 
-# Expriences
+# Exprience
 <dl>
     <dt>2024.01 - present</dt>
     <dd><strong>Researcher</strong> at ETRI</dd>
@@ -36,6 +36,40 @@
     <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
 </dl>
 
+# Exprience
+> 2024.01 - present
+<strong>Researcher</strong> at ETRI
+
+> 2023.09 - 2023.12
+<strong>Assistant Researcher</strong> at ETRI
+
+> 2022.03 - 2023.08
+<strong>Assistant Reseracher</strong> at Seoul National Univ.
+
+# Exprience
+2024.01 - present <strong>Researcher</strong> at ETRI   
+2023.09 - 2023.12 <strong>Assistant Researcher</strong> at ETRI   
+2022.03 - 2023.08 <strong>Assistant Reseracher</strong> at Seoul National Univ.
+
+# Exprience
+2024.01 - present                   <strong>Researcher</strong> at ETRI
+
+2023.09 - 2023.12 <strong>Assistant Researcher</strong> at ETRI
+
+2022.03 - 2023.08 <strong>Assistant Reseracher</strong> at Seoul National Univ.
+
+# Exprience
+| 2024.01 - present | <strong>Researcher</strong> at ETRI |   
+| 2023.09 - 2023.12 | <strong>Assistant Researcher</strong> at ETRI |    
+| 2022.03 - 2023.08 | <strong>Assistant Reseracher</strong> at Seoul National Univ. |
+
+# Exprience
+|:-------|:-----------:|   
+| 2024.01 - present | <strong>Researcher</strong> at ETRI |   
+| 2023.09 - 2023.12 | <strong>Assistant Researcher</strong> at ETRI |    
+| 2022.03 - 2023.08 | <strong>Assistant Reseracher</strong> at Seoul National Univ. |
+
+# Education
 
 
 
