@@ -1,6 +1,5 @@
 
 [//]: # 'HTML Header'
-
 <h1 class="landing-title">Hansol Shin&nbsp;&nbsp;&nbsp;신한솔</h1>
 
 <p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
@@ -28,6 +27,9 @@
     <dd><strong>BSc.<em>(Eng.)</em></strong> in Architectural Engineering, SungKyunKwan Univ.</dd>
 </dl>
 
+
+
+
 ## Publications
 
 ### SCI(E) Journals
@@ -45,6 +47,46 @@
 1. 라선중, **신한솔**, 서원준, 추한경, & 박철수 (2017), 기존 건물 HVAC 시스템에 대한 다섯 가지 기계학습 모델 개발, *대한건축학회 논문집-구조계*, 33(10), 69-77; doi: [10.5659/JAIK_SC.2017.33.10.69](https://doi.org/10.5659/JAIK_SC.2017.33.10.69)
 1. **신한솔** & 박철수 (2017), 랜덤 포레스트와 데이터 전처리를 이용한 냉동기 기계학습 모델 개발, *대한건축학회 논문집-구조계*, 33(9), 67-74; doi: [10.5659/JAIK_SC.2017.33.9.67](https://doi.org/10.5659/JAIK_SC.2017.33.9.67)
 1. 안기언, 김영민, 김용세, 윤성환, **신한솔**, & 박철수 (2016), 기존 건축물을 위한 건물 에너지 프로파일링 시스템 개발, *대한건축학회 논문집-구조계*, 32(12), 77-87; doi: [10.5659/JAIK_SC.2016.32.12.77](https://doi.org/10.5659/JAIK_SC.2016.32.12.77)
+
+
+<details>
+<summary>Hello</summary>
+jlkdsfjlk
+jkljl
+jkljl
+</details>
+
+
+<details>
+<summary>Hello</summary>
+
+jlkdsfjlk
+jkljl
+jkljl
+</details>
+
+
+<details>
+<summary>### working</summary>
+dkdsl
+</details>
+
+<details>
+<summary>### working</summary>
+
+dkdsl
+</details>
+
+
+
+<details>
+<summary><h3>working</h3></summary>
+
+dkdsl
+</details>
+
+
+
 
 ### <details><summary>International conference</summary>
 1. Yoo, Y.S., **Shin, H.**, Kim, D.W. and **Park, C.S.** (2023), Performance Gap Analysis in The Context of Building Energy Efficiency Certificate in South Korea, Proceedings of the 18th IBPSA conference, September 4-6, Shanghai, China
