@@ -1,14 +1,40 @@
 
-<h1 class="landing-title">Hansol Shin</h1>
-<div class="landing-title"> 
-# Hansol Shin 
-</div>
+[//]: # 'HTML Header'
 
+<h1 class="landing-title">Hansol Shin&nbsp;&nbsp;&nbsp;신한솔</h1>
 
+<p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
+<p class="text-center" id="small_link">links &nbsp;&nbsp;|&nbsp;&nbsp; links &nbsp;&nbsp;|&nbsp;&nbsp; ...</p>
 
+### Expriences
+<dl>
+    <dt>2024.01 - present</dt>
+    <dd><strong>Researcher</strong> at ETRI</dd>
+    <dt>2023.09 - 2023.12</dt>
+    <dd><strong>Assistant Researcher</strong> at ETRI</dd>
+    <dt>2022.03 - 2023.08</dt>
+    <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
+</dl>
 
+## Expriences
+<dl>
+    <dt>2024.01 - present</dt>
+    <dd><strong>Researcher</strong> at ETRI</dd>
+    <dt>2023.09 - 2023.12</dt>
+    <dd><strong>Assistant Researcher</strong> at ETRI</dd>
+    <dt>2022.03 - 2023.08</dt>
+    <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
+</dl>
 
-
+# Expriences
+<dl>
+    <dt>2024.01 - present</dt>
+    <dd><strong>Researcher</strong> at ETRI</dd>
+    <dt>2023.09 - 2023.12</dt>
+    <dd><strong>Assistant Researcher</strong> at ETRI</dd>
+    <dt>2022.03 - 2023.08</dt>
+    <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
+</dl>
 
 
 
