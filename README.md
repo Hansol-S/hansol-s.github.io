@@ -3,7 +3,23 @@
 <h1 class="landing-title">Hansol Shin&nbsp;&nbsp;&nbsp;신한솔</h1>
 
 <p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
-<p class="text-center" id="small_link">links &nbsp;&nbsp;|&nbsp;&nbsp; links &nbsp;&nbsp;|&nbsp;&nbsp; ...</p>
+<p class="text-center" id="small_link">
+  <a href="https://www.linkedin.com/in/hansol-shin-2ba23a120" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" style="margin: 0 10px;" />
+  </a>
+  |
+  <a href="https://orcid.org/0000-0001-5306-9499" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" width="20" height="20" style="margin: 0 10px;" />
+  </a>
+  |
+  <a href="https://ksp.etri.re.kr/ksp/user/140ef661-5c4f-4744-856e-bfa93265f92c" target="_blank" style="margin: 0 10px; text-decoration: none; font-size: 14px;">
+    ETRI KSP
+  </a>
+  |
+  <a href="https://scholar.google.co.kr/citations?user=cK6NM-YAAAAJ" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" width="20" height="20" style="margin: 0 10px;" />
+  </a>
+</p>
 
 ## Exprience
 ---
@@ -37,7 +53,7 @@
 1. Yoo, Y.S., **Shin, H.S.**, Kim, D.W., & Park, C.S. (2024), Performance gap analysis for Korean building energy efficiency certification, *Energy and Buildings*, Vol 314, 1 July, 114294; doi: [10.1016/j.enbuild.2024.114294](https://doi.org/10.1016/j.enbuild.2024.114294)
 1. **Shin, H.** & Park, C.S. (2023), Parameter estimation for building energy models using GRcGAN, *Building Simulation*, 16(4), 629-639; doi: [10.1007/s12273-022-0965-1](https://doi.org/10.1007/s12273-022-0965-1)
 1. Ra, S.J., **Shin, H.S.**, & Park, C.S. (2022), Implementation of real-time model predictive heating control for a factory building using ANN-based lumped modeling approach, *Journal of Building Performance Simulation*, 16(2), 163-178; doi: [10.1080/19401493.2022.2125581](https://doi.org/10.1080/19401493.2022.2125581)
-1. Kim, Y.S., **Shin, H.S.**, & Park, C.S. (2022), Model predictive lighting control for a factory building using a deep deterministic policy gradient. *Journal of Building Performance Simulation*, 15(2), 174-193; doi: [10.1080/19401493.2021.2019310](https://doi.org/10.1080/19401493.2021.2019310) 
+1. Kim, Y.S., **Shin, H.S.**, & Park, C.S. (2022), Model predictive lighting control for a factory building using a deep deterministic policy gradient. *Journal of Building Performance Simulation*, 15(2), 174-193; doi: [10.1080/19401493.2021.2019310](https://doi.org/10.1080/19401493.2021.2019310)
 1. Ahn, K.U., **Shin, H.S.**, & Park, C.S. (2019), Energy Analysis of 4625 Office Buildings in South Korea, *Energies*, 12(6), 1114; doi: [10.3390/en12061114](https://doi.org/10.3390/en12061114)
 
 ### KCI Journals
@@ -130,4 +146,3 @@
 
 1. 박철수, 이건호, 김덕우, **신한솔**, “유사건물 간 에너지 소비량 비교를 이용한 에너지 소비현황 간이진단 툴(E-Scope)”, 한국, 등록번호 C-2016-034192, 등록일 2016-12-26 [저작권은 성균관대학교가 지님]
 2. 박철수, **신한솔**, "웹기반 건축물 에너지 간이 진단 프로그램", 한국, 등록번호 C-2015-009213, 등록일 2015-04-20 [저작권은 성균관대학교가 지님]
-
