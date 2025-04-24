@@ -3,21 +3,21 @@
 <h1 class="landing-title">Hansol Shin&nbsp;&nbsp;&nbsp;신한솔</h1>
 
 <p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
-<p class="text-center" id="small_link" style="display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: nowrap; line-height: 16px;">
-  <a href="https://ksp.etri.re.kr/ksp/user/140ef661-5c4f-4744-856e-bfa93265f92c" target="_blank" style="text-decoration: none; font-size: 14px; line-height: 16px;">
+<p class="text-center" id="small_link" style="display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: nowrap;">
+  <a href="https://ksp.etri.re.kr/ksp/user/140ef661-5c4f-4744-856e-bfa93265f92c" target="_blank" style="text-decoration: none; font-size: 14px; vertical-align: middle;">
     ETRI KSP
   </a>
-  <span style="line-height: 16px;">|</span>
+  |
   <a href="https://scholar.google.co.kr/citations?user=cK6NM-YAAAAJ" target="_blank" rel="noopener noreferrer">
-    <img src="https://scholar.google.com/favicon.ico" alt="Google Scholar" width="16" height="16" />
+    <img src="https://scholar.google.com/favicon.ico" alt="Google Scholar" width="16" height="16" style="vertical-align: middle;" />
   </a>
-  <span style="line-height: 16px;">|</span>
+  |
   <a href="https://orcid.org/0000-0001-5306-9499" target="_blank" rel="noopener noreferrer">
-    <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" alt="ORCID" width="16" height="16" />
+    <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" alt="ORCID" width="16" height="16" style="vertical-align: middle;" />
   </a>
-  <span style="line-height: 16px;">|</span>
+  |
   <a href="https://www.linkedin.com/in/hansol-shin-2ba23a120" target="_blank" rel="noopener noreferrer">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0A66C2" width="16" height="16">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0A66C2" width="16" height="16" style="vertical-align: middle;">
       <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"/>
     </svg>
   </a>
