@@ -3,21 +3,23 @@
 <h1 class="landing-title">Hansol Shin&nbsp;&nbsp;&nbsp;신한솔</h1>
 
 <p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
-<p class="text-center" id="small_link" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <a href="https://www.linkedin.com/in/hansol-shin-2ba23a120" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" />
+<p class="text-center" id="small_link" style="display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: nowrap;">
+   <a href="https://www.linkedin.com/in/hansol-shin-2ba23a120" target="_blank" rel="noopener noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0A66C2" width="16" height="16" style="vertical-align: middle;">
+      <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
+    </svg>
   </a>
   |
   <a href="https://orcid.org/0000-0001-5306-9499" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" width="20" height="20" />
+    <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" alt="ORCID" width="16" height="16" style="vertical-align: middle;" />
   </a>
   |
   <a href="https://ksp.etri.re.kr/ksp/user/140ef661-5c4f-4744-856e-bfa93265f92c" target="_blank" style="text-decoration: none; font-size: 14px;">
-    ETRI-KSP
+    ETRI KSP
   </a>
   |
   <a href="https://scholar.google.co.kr/citations?user=cK6NM-YAAAAJ" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" width="20" height="20" />
+    <img src="https://scholar.google.com/favicon.ico" alt="Google Scholar" width="16" height="16" style="vertical-align: middle;" />
   </a>
 </p>
 
@@ -67,7 +69,7 @@
 
 
 
-### International conference
+### International conferences
 1. Yoo, Y.S., **Shin, H.**, Kim, D.W. and **Park, C.S.** (2023), Performance Gap Analysis in The Context of Building Energy Efficiency Certificate in South Korea, Proceedings of the 18th IBPSA conference, September 4-6, Shanghai, China
 1. **Shin, H.** and Park, C.S. (2022), GAN-based parameter estimation of building energy model, Proceedings of the 2022 ASHRAE Annual Conference, June 25-29, Toronto, Canada
 1. Ra, S.J., **Shin, H.S.** and Park, C.S. (2021), Real-time Model Predictive Control for a Factory Building using Lumped Approach, Proceedings of the 2021 Winter Simulation Conference, December 13-17, Phoenix, Arizona, USA
@@ -83,7 +85,7 @@
 1. **Shin, H.S.**, and Park, C.S. (2017), Comparison of three random forest models of a chiller, Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association), August 7-9, San Francisco, California, USA., pp.1881-1886
 1. Ahn, K.U., **Shin, H.S.** and Park, C.S. (2016), Big-data analysis on energy consumption of office buildings in Seoul, Proceedings of the 3rd Asia conference of International Building Performance Simulation Association, November 27-29, Jeju, Republic of Korea
 
-### Korean  conference
+### Korean  conferences
 
 1. 손형준, 최진영, 김선혁, 도윤미, **신한솔** (2024), 제지 생산관리시스템의 데이터 자동 수집을 위한 랜덤 포레스트 기반 이상 프로세스 및 원인 분류, 한국통신학회 인공지능 학술대회 논문집, pp.000-000, 2024년 9월 25-28일, 소노캄 제주, 제주도
 2. 김상욱, 정운철, 이충호, 허태욱, **신한솔** (2024), 전력 예측 모델을 이용한 계절 변동성 기반 동적 계약전력 최적화, 한국통신학회 인공지능 학술대회 논문집, pp.000-000, 2024년 9월 25-28일, 소노캄 제주, 제주도
@@ -129,11 +131,11 @@
 
 1. 박철수, 서원준, **신한솔**, 추한경, 라선중 (2017), 기계학습 시뮬레이션 모델을 이용한 설비시스템 최적제어, 설비:공조.냉동.위생(Journal of the KARSE), Vol.34, No.1, pp.68-83, 한국설비기술협회(ISSN: 1739-1024)
 
-## International patent
+## International patents
 
 1. 건물 에너지 관리 시스템을 통한 냉동기의 최적 제어 방법 및 장치, 2017년 7월, PCT 국제출원번호: KR2017/007133
 
-## Korean patent
+## Korean patents
 
 1. **신한솔**, 김선혁, 도윤미, 방수식, 이슬인, 최영은, “유도 초음파 생성 및 계측을 위한 장치”, 한국, 출원번호 10-2024-0100584, 출원일 2024-07-29
 2. 박철수, **신한솔**, 김재민, 김영섭, 특허 제10-2248889호, “작업면 상에 유입되는 조도를 결정하는 방법 및 장치”, 한국, 출원번호 10-2019-0152237, 출원일 2019-11-25, 등록일 2021-04-29 (관리번호: SNU-2019-11959)
