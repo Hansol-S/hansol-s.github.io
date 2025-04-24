@@ -3,21 +3,21 @@
 <h1 class="landing-title">Hansol Shin&nbsp;&nbsp;&nbsp;신한솔</h1>
 
 <p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
-<p class="text-center" id="small_link">
+<p class="text-center" id="small_link" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <a href="https://www.linkedin.com/in/hansol-shin-2ba23a120" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" />
   </a>
   |
   <a href="https://orcid.org/0000-0001-5306-9499" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" width="20" height="20" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" width="20" height="20" />
   </a>
   |
-  <a href="https://ksp.etri.re.kr/ksp/user/140ef661-5c4f-4744-856e-bfa93265f92c" target="_blank" style="margin: 0 10px; text-decoration: none; font-size: 14px;">
-    ETRI KSP
+  <a href="https://ksp.etri.re.kr/ksp/user/140ef661-5c4f-4744-856e-bfa93265f92c" target="_blank" style="text-decoration: none; font-size: 14px;">
+    ETRI-KSP
   </a>
   |
   <a href="https://scholar.google.co.kr/citations?user=cK6NM-YAAAAJ" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" width="20" height="20" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" width="20" height="20" />
   </a>
 </p>
 
