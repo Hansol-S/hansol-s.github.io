@@ -2,7 +2,7 @@
 [//]: # 'HTML Header'
 <h1 class="landing-title">Hansol Shin&nbsp;&nbsp;&nbsp;신한솔</h1>
 
-<p class="text-center" id="small_description">Building energy simulation Ph.D. & Building/Factory energy management solution specialist</p>
+<p class="text-center" id="small_description">Ph.D. in Building energy simulation</p>
 <p class="text-center" id="small_link" style="display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: nowrap;">
   <a href="https://ksp.etri.re.kr/ksp/user/140ef661-5c4f-4744-856e-bfa93265f92c" target="_blank" style="text-decoration: none; font-size: 14px; vertical-align: middle;">
     ETRI KSP
