@@ -87,8 +87,7 @@ function toggleEduLang(lang) {
 <div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0 0 16px 0;">Research Projects</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleProjLang('kor')" id="proj-link-kor" style="font-weight: bold;">kor</a>/<a href="javascript:void(0)" onclick="toggleProjLang('eng')" id="proj-link-eng">eng</a>]</span></div>
 
 <div id="proj-kor">
-
-<h3>국가 연구과제</h3>
+<h3 style="margin-top: 0;">국가 연구과제</h3>
 
 <dl>
     <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 | 한국산업기술기획평가원</dt>
@@ -128,8 +127,7 @@ function toggleEduLang(lang) {
 
 </div>
 <div id="proj-eng" style="display:none">
-
-<h3>국가 연구과제</h3>
+<h3 style="margin-top: 0;">국가 연구과제</h3>
 
 <dl>
     <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 | Korea Institute for Advancement of Technology (KIAT)</dt>
