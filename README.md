@@ -84,7 +84,95 @@ function toggleEduLang(lang) {
 </script>
 
 
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Research Projects</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleProjLang('kor')" id="proj-link-kor" style="font-weight: bold;">kor</a>/<a href="javascript:void(0)" onclick="toggleProjLang('eng')" id="proj-link-eng">eng</a>]</span></div>
 
+<div id="proj-kor">
+
+### 국가 연구과제
+
+<dl>
+    <dt>에너지다소비 업종대상 맞춤형 공장에너지관리시스템(FEMS) 기술 개발 및 실증</dt>
+    <dd>2024.01.01 - 2025.08.31 | 한국에너지기술평가원</dd>
+    <dt>한국형 그린버튼 플랫폼 개발 및 구축</dt>
+    <dd>2024.01.01 - 2024.12.31 | 한국에너지기술평가원</dd>
+    <dt>가정 에너지 사용량 실시간 진단 및 지능형 자율제어/관리 시스템 원천기술 개발</dt>
+    <dd>2019.10.01 - 2023.06.30 | 한국에너지기술평가원</dd>
+    <dt>LIGHT-HVAC 에너지최적화 시스템 및 BM 개발</dt>
+    <dd>2019.01.01 - 2021.08.31 | 한국에너지기술평가원</dd>
+    <dt>기계학습 방법을 이용한 건물 에너지 시뮬레이터 개발 및 이를 이용한 건물 시스템의 자율 제어, 자율 진단을 통해 25% 에너지 절감 기술 개발</dt>
+    <dd>2015.12.01 - 2018.09.30 | 한국에너지기술평가원</dd>
+    <dt>시장수요기반 기존건축물 녹색화 확산 연구</dt>
+    <dd>2011.11.30 - 2016.06.29 | 국토해양부</dd>
+</dl>
+
+### 용역수행
+
+<dl>
+    <dt>강화학습을 적용한 건물에너지관리시스템(BEMS) 기술자문</dt>
+    <dd>2020.04.13 - 2020.12.02 | 한국전력기술㈜</dd>
+    <dt>디지털 트윈시티 건물 에너지 해석</dt>
+    <dd>2019.12.02 - 2019.12.20 | Dassault Systems (리치앤타임㈜)</dd>
+    <dt>건물에너지저감을 위한 외부베네시안블라인드의 최적제어방안 연구 - 서울에너지드림센터를 중심으로</dt>
+    <dd>2018.12.01 - 2019.02.28 | 서울에너지드림센터</dd>
+    <dt>Full&Deep 리모델링을 위한 에너지 사용 패턴 분석 알고리즘 적용가능성 검토 용역</dt>
+    <dd>2018.09.28 - 2018.11.30 | 한국건설기술연구원 (KICT)</dd>
+    <dt>MBCx 기반 건물에너지 성능진단 기능 고도화 SW 제작</dt>
+    <dd>2016.10.13 - 2017.04.12 | 한국전자통신연구원 (ETRI)</dd>
+    <dt>기축 건물 에너지 성능 평가 기능 고도화 SW 제작</dt>
+    <dd>2016.10.13 - 2017.04.12 | 한국전자통신연구원 (ETRI)</dd>
+    <dt>BEMS 에너지 절감 로직에 대한 효과 분석/평가</dt>
+    <dd>2013.11 - 2014.05 | LG전자</dd>
+</dl>
+
+</div>
+<div id="proj-eng" style="display:none">
+
+### 국가 연구과제
+
+<dl>
+    <dt>Development and Demonstration of Customized FEMS for Energy-Intensive Industries</dt>
+    <dd>2024.01.01 - 2025.08.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
+    <dt>Development of Korean Green Button Platform</dt>
+    <dd>2024.01.01 - 2024.12.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
+    <dt>Development of Core Technology for Real-time Diagnosis and Intelligent Autonomous Control/Management of Household Energy Consumption</dt>
+    <dd>2019.10.01 - 2023.06.30 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
+    <dt>Development of LIGHT-HVAC Energy Optimization System and Business Model</dt>
+    <dd>2019.01.01 - 2021.08.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
+    <dt>Development of Building Energy Simulator using Machine Learning and 25% Energy Reduction through Autonomous Control and Diagnosis</dt>
+    <dd>2015.12.01 - 2018.09.30 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
+    <dt>Market Demand-based Green Retrofit of Existing Buildings</dt>
+    <dd>2011.11.30 - 2016.06.29 | Ministry of Land, Transport and Maritime Affairs</dd>
+</dl>
+
+### 용역수행
+
+<dl>
+    <dt>Technical Consulting on BEMS using Reinforcement Learning</dt>
+    <dd>2020.04.13 - 2020.12.02 | Korea Electric Power Engineering & Construction (KEPEC)</dd>
+    <dt>Building Energy Analysis for Digital Twin City</dt>
+    <dd>2019.12.02 - 2019.12.20 | Dassault Systems (Rich & Time Co., Ltd.)</dd>
+    <dt>Optimal Control of External Venetian Blinds for Building Energy Reduction - Focused on Seoul Energy Dream Center</dt>
+    <dd>2018.12.01 - 2019.02.28 | Seoul Energy Dream Center</dd>
+    <dt>Feasibility Study of Energy Usage Pattern Analysis Algorithm for Full & Deep Remodeling</dt>
+    <dd>2018.09.28 - 2018.11.30 | Korea Institute of Civil Engineering and Building Technology (KICT)</dd>
+    <dt>MBCx-based Building Energy Performance Diagnosis Software Development</dt>
+    <dd>2016.10.13 - 2017.04.12 | Electronics and Telecommunications Research Institute (ETRI)</dd>
+    <dt>Existing Building Energy Performance Evaluation Software Development</dt>
+    <dd>2016.10.13 - 2017.04.12 | Electronics and Telecommunications Research Institute (ETRI)</dd>
+    <dt>Effectiveness Analysis and Evaluation of BEMS Energy Saving Logic</dt>
+    <dd>2013.11 - 2014.05 | LG Electronics</dd>
+</dl>
+
+</div>
+
+<script>
+function toggleProjLang(lang) {
+  document.getElementById('proj-eng').style.display = lang === 'eng' ? '' : 'none';
+  document.getElementById('proj-kor').style.display = lang === 'kor' ? '' : 'none';
+  document.getElementById('proj-link-eng').style.fontWeight = lang === 'eng' ? 'bold' : 'normal';
+  document.getElementById('proj-link-kor').style.fontWeight = lang === 'kor' ? 'bold' : 'normal';
+}
+</script>
 
 ## Publications
 
