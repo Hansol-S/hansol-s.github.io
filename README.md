@@ -91,12 +91,12 @@ function toggleEduLang(lang) {
 <h3>국가 연구과제</h3>
 
 <dl>
-    <dt style="color: #7a7a7a">2025.04.01 - 2026.12.31</dt>
+    <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31</dt>
     <dd>기존 리튬이온 배터리 대비 100배 빠른 초고속 충전 양자배터리 핵심기술 | 한국산업기술기획평가원</dd>
-    <dt style="color: #7a7a7a">2024.01.01 - 2025.08.31</dt>
-    <dd>에너지다소비 업종대상 맞춤형 공장에너지관리시스템(FEMS) 기술 개발 및 실증 | 한국에너지기술평가원</dd>
-    <dt style="color: #7a7a7a">2024.01.01 - 2024.12.31</dt>
+    <dt style="color: #7a7a7a">2024.01.01 - 2026.12.31</dt>
     <dd>한국형 그린버튼 플랫폼 개발 및 구축 | 한국에너지기술평가원</dd>
+    <dt style="color: #7a7a7a">2024.01.01 - 2025.12.31</dt>
+    <dd>에너지다소비 업종대상 맞춤형 공장에너지관리시스템(FEMS) 기술 개발 및 실증 | 한국에너지기술평가원</dd>
     <dt style="color: #7a7a7a">2019.10.01 - 2023.06.30</dt>
     <dd>가정 에너지 사용량 실시간 진단 및 지능형 자율제어/관리 시스템 원천기술 개발 | 한국에너지기술평가원</dd>
     <dt style="color: #7a7a7a">2019.01.01 - 2021.08.31</dt>
@@ -132,12 +132,12 @@ function toggleEduLang(lang) {
 <h3>국가 연구과제</h3>
 
 <dl>
-    <dt style="color: #7a7a7a">2025.04.01 - 2026.12.31</dt>
+    <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31</dt>
     <dd>Quantum battery core technology for ultra-fast charging 100x faster than traditional lithium-ion batteries | Korea Institute for Advancement of Technology (KIAT)</dd>
-    <dt style="color: #7a7a7a">2024.01.01 - 2025.08.31</dt>
-    <dd>Development and field verification of customized FEMS technology for high energy processes (bio/pharmaceutical, food, metal/glass melting, papermaking) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
-    <dt style="color: #7a7a7a">2024.01.01 - 2024.12.31</dt>
+    <dt style="color: #7a7a7a">2024.01.01 - 2026.12.31</dt>
     <dd>Development and Construction of Korea Green Button Platform | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
+    <dt style="color: #7a7a7a">2024.01.01 - 2025.12.31</dt>
+    <dd>Development and field verification of customized FEMS technology for high energy processes (bio/pharmaceutical, food, metal/glass melting, papermaking) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
     <dt style="color: #7a7a7a">2019.10.01 - 2023.06.30</dt>
     <dd>Development of realtime diagnosis technology of home energy usage and smart & autonomous control/management system | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dd>
     <dt style="color: #7a7a7a">2019.01.01 - 2021.08.31</dt>
