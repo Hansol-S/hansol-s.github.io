@@ -23,15 +23,33 @@
   </a>
 </p>
 
-## Exprience
-<dl>
+<h2 style="display: inline;">Exprience</h2>&nbsp;&nbsp;<a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-size: 14px; font-weight: bold;">[eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor" style="font-size: 14px;">kor]</a>
+
+<dl id="exp-eng">
     <dt style="color: #7a7a7a">2024.01 - present</dt>
     <dd><strong>Researcher</strong> at ETRI</dd>
     <dt style="color: #7a7a7a">2023.09 - 2023.12</dt>
     <dd><strong>Assistant Researcher</strong> at ETRI</dd>
     <dt style="color: #7a7a7a">2022.03 - 2023.08</dt>
-    <dd><strong>Assistant Reseracher</strong> at Seoul National Univ.</dd>
+    <dd><strong>Assistant Researcher</strong> at Seoul National Univ.</dd>
 </dl>
+<dl id="exp-kor" style="display:none">
+    <dt style="color: #7a7a7a">2024.01 - 현재</dt>
+    <dd><strong>연구원</strong>, 한국전자통신연구원(ETRI)</dd>
+    <dt style="color: #7a7a7a">2023.09 - 2023.12</dt>
+    <dd><strong>박사후연구원</strong>, 한국전자통신연구원(ETRI)</dd>
+    <dt style="color: #7a7a7a">2022.03 - 2023.08</dt>
+    <dd><strong>박사후연구원</strong>, 서울대학교</dd>
+</dl>
+
+<script>
+function toggleExpLang(lang) {
+  document.getElementById('exp-eng').style.display = lang === 'eng' ? '' : 'none';
+  document.getElementById('exp-kor').style.display = lang === 'kor' ? '' : 'none';
+  document.getElementById('exp-link-eng').style.fontWeight = lang === 'eng' ? 'bold' : 'normal';
+  document.getElementById('exp-link-kor').style.fontWeight = lang === 'kor' ? 'bold' : 'normal';
+}
+</script>
 
 ## Education
 <dl>
