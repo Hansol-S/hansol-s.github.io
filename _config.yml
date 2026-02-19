@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Hansol Shin
+  url:               hansol-s.github.io
+  email:
 
 plugins:
   - jekyll-coffeescript
