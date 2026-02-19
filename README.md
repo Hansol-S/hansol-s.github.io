@@ -37,9 +37,9 @@
     <dt style="color: #7a7a7a">2024.01 - 현재</dt>
     <dd><strong>연구원</strong>, 한국전자통신연구원</dd>
     <dt style="color: #7a7a7a">2023.09 - 2023.12</dt>
-    <dd><strong>박사후연구원</strong>, 한국전자통신연구원</dd>
+    <dd><strong>박사후연수연구원</strong>, 한국전자통신연구원</dd>
     <dt style="color: #7a7a7a">2022.03 - 2023.08</dt>
-    <dd><strong>박사후연구원</strong>, 서울대학교</dd>
+    <dd><strong>연수연구원</strong>, 서울대학교</dd>
 </dl>
 
 <script>
