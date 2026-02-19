@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Exprience</h2><span><a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-size: 14px; font-weight: bold;">[eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor" style="font-size: 14px;">kor]</a></span></div>
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Exprience</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor">kor</a>]</span></div>
 
 <dl id="exp-eng">
     <dt style="color: #7a7a7a">2024.01 - present</dt>
@@ -51,8 +51,9 @@ function toggleExpLang(lang) {
 }
 </script>
 
-## Education
-<dl>
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Education</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleEduLang('eng')" id="edu-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleEduLang('kor')" id="edu-link-kor">kor</a>]</span></div>
+
+<dl id="edu-eng">
     <dt style="color: #7a7a7a">2018.09 - 2022.02</dt>
     <dd><strong>Ph.D.</strong> in Department of Architecture and Architectural Engineering, Seoul National Univ.</dd>
     <dt style="color: #7a7a7a">2016.09 - 2018.08</dt>
@@ -62,6 +63,25 @@ function toggleExpLang(lang) {
     <dt style="color: #7a7a7a">2009.03 - 2014.02</dt>
     <dd><strong>BSc.<em>(Eng.)</em></strong> in Architectural Engineering, SungKyunKwan Univ.</dd>
 </dl>
+<dl id="edu-kor" style="display:none">
+    <dt style="color: #7a7a7a">2018.09 - 2022.02</dt>
+    <dd><strong>박사</strong>, 건축학과(건축공학전공), 서울대학교</dd>
+    <dt style="color: #7a7a7a">2016.09 - 2018.08</dt>
+    <dd><strong>박사<em>(수료)</em></strong>, 건설환경공학부, 성균관대학교</dd>
+    <dt style="color: #7a7a7a">2014.03 - 2016.08</dt>
+    <dd><strong>석사</strong>, 미래도시융합공학과, 성균관대학교</dd>
+    <dt style="color: #7a7a7a">2009.03 - 2014.02</dt>
+    <dd><strong>학사</strong>, 건축공학과, 성균관대학교</dd>
+</dl>
+
+<script>
+function toggleEduLang(lang) {
+  document.getElementById('edu-eng').style.display = lang === 'eng' ? '' : 'none';
+  document.getElementById('edu-kor').style.display = lang === 'kor' ? '' : 'none';
+  document.getElementById('edu-link-eng').style.fontWeight = lang === 'eng' ? 'bold' : 'normal';
+  document.getElementById('edu-link-kor').style.fontWeight = lang === 'kor' ? 'bold' : 'normal';
+}
+</script>
 
 
 
