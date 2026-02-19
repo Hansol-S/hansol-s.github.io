@@ -200,7 +200,7 @@ function toggleProjLang(lang) {
 
 ### International conferences
 1. Kim, S., Mun, J., **Shin, H.**, Lee, J.H., Doh, Y. & Park, C.S. (2025), Stochastic optimal control of chiller systems: data-driven vs. hybrid AI, Proceedings of the International Symposium on Heating, Ventilating, and Air Conditioning (ISHVAC 2025), December, pp.1-7
-1. **Shin, H.**, Lee, J.H. & Doh, Y. (2025), Causal Analysis of Inter-room Differential Pressure using GC-xLSTM, Proceedings of the International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2025), November, pp.302-303; doi: [10.1145/3736425.3772107](https://dx.doi.org/10.1145/3736425.3772107)
+1. **Shin, H.**, Lee, J.H. & Doh, Y. (2025), Causal Analysis of Inter-room Differential Pressure using GC-xLSTM, Proceedings of the International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2025), November, pp.302-303
 1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Optimizing Free-Cooling Operation in GMP-Regulated Pharmaceutical Cleanroom HVAC Systems via Transformer Attention-Aligned RL, Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025), October, pp.954-959
 1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Reinforcement Learning-Based Free Cooling Capacity Optimization for Pharmaceutical Cleanroom HVAC Systems, Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025), October, pp.427-432
 1. **Shin, H.**, Jeong, W.C., Lee, C. & Heo, T.W. (2024), Stochastic and interpretable prediction of industrial electricity consumption using Temporal Fusion Transformer, Proceedings of the Asia Conference of International Building Performance Simulation Association (ASim 2024), December, pp.1257-1264
@@ -221,9 +221,9 @@ function toggleProjLang(lang) {
 
 ### Korean  conferences
 
-1. 김승현, 문지예, **신한솔**, 이좌형, 도윤미 & 박철수 (2025), 하이브리드 AI 냉동기 모델을 활용한 냉수 시스템의 확률적 최적 제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.235-236, 2025년 11월
-1. 최우주, **신한솔** & 김선혁 (2025), Transformer-XGBoost 모델을 활용한 계통 한계 가격 핵심 영향 요인 분석, 한국통신학회 종합학술발표회 논문집, 2025년 11월
-1. **신한솔**, 이좌형 & 도윤미 (2025), GC-xLSTM을 이용한 실간 차압·댐퍼 인과관계 분석, 대한건축학회 추계학술발표대회논문집, pp.541-542, 2025년 10월
+1. 김승현, 문지예, **신한솔**, 이좌형, 도윤미 & 박철수 (2025), 하이브리드 AI 냉동기 모델을 활용한 냉수 시스템의 확률적 최적 제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.235-236, 2025년 11월 14일
+1. 최우주, **신한솔** & 김선혁 (2025), Transformer-XGBoost 모델을 활용한 계통 한계 가격 핵심 영향 요인 분석, 한국통신학회 종합학술발표회 논문집, 2025년 11월 19-21일
+1. **신한솔**, 이좌형 & 도윤미 (2025), GC-xLSTM을 이용한 실간 차압·댐퍼 인과관계 분석, 대한건축학회 추계학술발표대회논문집, pp.541-542, 2025년 10월 29-31일
 1. 손형준, 최진영, 김선혁, 도윤미 & **신한솔** (2024), 제지 생산관리시스템의 데이터 자동 수집을 위한 랜덤 포레스트 기반 이상 프로세스 및 원인 분류, 한국통신학회 인공지능 학술대회 논문집, pp.145-146, 2024년 9월 25-28일, 소노캄 제주, 제주도
 2. 김상욱, 정운철, 이충호, 허태욱 & **신한솔** (2024), 전력 예측 모델을 이용한 계절 변동성 기반 동적 계약전력 최적화, 한국통신학회 인공지능 학술대회 논문집, pp.301-302, 2024년 9월 25-28일, 소노캄 제주, 제주도
 3. **신한솔**, 정운철, 이충호 & 허태욱 (2024), 기상 데이터를 활용한 산업시설 전력 소비량의 확률적 예측, 한국통신학회 학술대회논문집, pp.243-244, 2024년 6월 19-21일, 라마다프라자 제주호텔, 제주도
