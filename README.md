@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Exprience</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor">kor</a>]</span></div>
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0 0 16px 0;">Exprience</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor">kor</a>]</span></div>
 
 <dl id="exp-eng">
     <dt style="color: #7a7a7a">2024.01 - present</dt>
@@ -51,7 +51,7 @@ function toggleExpLang(lang) {
 }
 </script>
 
-<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Education</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleEduLang('eng')" id="edu-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleEduLang('kor')" id="edu-link-kor">kor</a>]</span></div>
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0 0 16px 0;">Education</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleEduLang('eng')" id="edu-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleEduLang('kor')" id="edu-link-kor">kor</a>]</span></div>
 
 <dl id="edu-eng">
     <dt style="color: #7a7a7a">2018.09 - 2022.02</dt>
@@ -84,7 +84,7 @@ function toggleEduLang(lang) {
 </script>
 
 
-<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Research Projects</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleProjLang('kor')" id="proj-link-kor" style="font-weight: bold;">kor</a>/<a href="javascript:void(0)" onclick="toggleProjLang('eng')" id="proj-link-eng">eng</a>]</span></div>
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0 0 16px 0;">Research Projects</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleProjLang('kor')" id="proj-link-kor" style="font-weight: bold;">kor</a>/<a href="javascript:void(0)" onclick="toggleProjLang('eng')" id="proj-link-eng">eng</a>]</span></div>
 
 <div id="proj-kor">
 
@@ -199,6 +199,11 @@ function toggleProjLang(lang) {
 
 
 ### International conferences
+1. Kim, S., Mun, J., **Shin, H.**, Lee, J.H., Doh, Y. & Park, C.S. (2025), Stochastic optimal control of chiller systems: data-driven vs. hybrid AI, Proceedings of the International Symposium on Heating, Ventilating, and Air Conditioning (ISHVAC 2025), December, pp.1-7
+1. **Shin, H.**, Lee, J.H. & Doh, Y. (2025), Causal Analysis of Inter-room Differential Pressure using GC-xLSTM, Proceedings of the International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2025), November, pp.302-303; doi: [10.1145/3736425.3772107](https://dx.doi.org/10.1145/3736425.3772107)
+1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Optimizing Free-Cooling Operation in GMP-Regulated Pharmaceutical Cleanroom HVAC Systems via Transformer Attention-Aligned RL, Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025), October, pp.954-959
+1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Reinforcement Learning-Based Free Cooling Capacity Optimization for Pharmaceutical Cleanroom HVAC Systems, Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025), October, pp.427-432
+1. **Shin, H.**, Jeong, W.C., Lee, C. & Heo, T.W. (2024), Stochastic and interpretable prediction of industrial electricity consumption using Temporal Fusion Transformer, Proceedings of the Asia Conference of International Building Performance Simulation Association (ASim 2024), December, pp.1257-1264
 1. Yoo, Y.S., **Shin, H.**, Kim, D.W. & Park, C.S. (2023), Performance Gap Analysis in The Context of Building Energy Efficiency Certificate in South Korea, Proceedings of the 18th IBPSA conference, September 4-6, Shanghai, China
 1. **Shin, H.** & Park, C.S. (2022), GAN-based parameter estimation of building energy model, Proceedings of the 2022 ASHRAE Annual Conference, June 25-29, Toronto, Canada
 1. Ra, S.J., **Shin, H.S.** & Park, C.S. (2021), Real-time Model Predictive Control for a Factory Building using Lumped Approach, Proceedings of the 2021 Winter Simulation Conference, December 13-17, Phoenix, Arizona, USA
@@ -216,8 +221,11 @@ function toggleProjLang(lang) {
 
 ### Korean  conferences
 
-1. 손형준, 최진영, 김선혁, 도윤미 & **신한솔** (2024), 제지 생산관리시스템의 데이터 자동 수집을 위한 랜덤 포레스트 기반 이상 프로세스 및 원인 분류, 한국통신학회 인공지능 학술대회 논문집, pp.000-000, 2024년 9월 25-28일, 소노캄 제주, 제주도
-2. 김상욱, 정운철, 이충호, 허태욱 & **신한솔** (2024), 전력 예측 모델을 이용한 계절 변동성 기반 동적 계약전력 최적화, 한국통신학회 인공지능 학술대회 논문집, pp.000-000, 2024년 9월 25-28일, 소노캄 제주, 제주도
+1. 김승현, 문지예, **신한솔**, 이좌형, 도윤미 & 박철수 (2025), 하이브리드 AI 냉동기 모델을 활용한 냉수 시스템의 확률적 최적 제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.235-236, 2025년 11월
+1. 최우주, **신한솔** & 김선혁 (2025), Transformer-XGBoost 모델을 활용한 계통 한계 가격 핵심 영향 요인 분석, 한국통신학회 종합학술발표회 논문집, 2025년 11월
+1. **신한솔**, 이좌형 & 도윤미 (2025), GC-xLSTM을 이용한 실간 차압·댐퍼 인과관계 분석, 대한건축학회 추계학술발표대회논문집, pp.541-542, 2025년 10월
+1. 손형준, 최진영, 김선혁, 도윤미 & **신한솔** (2024), 제지 생산관리시스템의 데이터 자동 수집을 위한 랜덤 포레스트 기반 이상 프로세스 및 원인 분류, 한국통신학회 인공지능 학술대회 논문집, pp.145-146, 2024년 9월 25-28일, 소노캄 제주, 제주도
+2. 김상욱, 정운철, 이충호, 허태욱 & **신한솔** (2024), 전력 예측 모델을 이용한 계절 변동성 기반 동적 계약전력 최적화, 한국통신학회 인공지능 학술대회 논문집, pp.301-302, 2024년 9월 25-28일, 소노캄 제주, 제주도
 3. **신한솔**, 정운철, 이충호 & 허태욱 (2024), 기상 데이터를 활용한 산업시설 전력 소비량의 확률적 예측, 한국통신학회 학술대회논문집, pp.243-244, 2024년 6월 19-21일, 라마다프라자 제주호텔, 제주도
 4. **신한솔**, 이충호 & 허태욱 (2024), 시계열 결측치 보간을 위한 전력 사용량의 확률적 예측, 한국통신학회 학술대회논문집, pp.62-63, 2024년 1월 31-2월 2일, 용평리조트, 강원도
 5. 김승현, **신한솔**, 조성권, 김진홍 & 박철수 (2022), 주거 건물에서 거주자 재실 상태의 예측가능성 분석, 대한건축학회 춘계학술발표대회논문집, 제42권 제1호, pp.323-324, 2022년 4월 28-29일, 더케이호텔, 서울
