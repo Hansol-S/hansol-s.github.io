@@ -24,7 +24,6 @@
 </p>
 
 ## Exprience
----
 <dl>
     <dt style="color: #7a7a7a">2024.01 - present</dt>
     <dd><strong>Researcher</strong> at ETRI</dd>
