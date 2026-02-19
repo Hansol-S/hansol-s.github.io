@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h2 style="display: inline;">Exprience</h2>&nbsp;&nbsp;<a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-size: 14px; font-weight: bold;">[eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor" style="font-size: 14px;">kor]</a>
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0;">Exprience</h2><span><a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-size: 14px; font-weight: bold;">[eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor" style="font-size: 14px;">kor]</a></span></div>
 
 <dl id="exp-eng">
     <dt style="color: #7a7a7a">2024.01 - present</dt>
@@ -35,9 +35,9 @@
 </dl>
 <dl id="exp-kor" style="display:none">
     <dt style="color: #7a7a7a">2024.01 - 현재</dt>
-    <dd><strong>연구원</strong>, 한국전자통신연구원(ETRI)</dd>
+    <dd><strong>연구원</strong>, 한국전자통신연구원</dd>
     <dt style="color: #7a7a7a">2023.09 - 2023.12</dt>
-    <dd><strong>박사후연구원</strong>, 한국전자통신연구원(ETRI)</dd>
+    <dd><strong>박사후연구원</strong>, 한국전자통신연구원</dd>
     <dt style="color: #7a7a7a">2022.03 - 2023.08</dt>
     <dd><strong>박사후연구원</strong>, 서울대학교</dd>
 </dl>
