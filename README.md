@@ -27,11 +27,11 @@
 
 <dl id="exp-eng">
     <dt style="color: #7a7a7a">2024.01 - present</dt>
-    <dd><strong>Researcher</strong> at ETRI</dd>
+    <dd><strong>Senior researcher</strong> at ETRI</dd>
     <dt style="color: #7a7a7a">2023.09 - 2023.12</dt>
-    <dd><strong>Assistant Researcher</strong> at ETRI</dd>
+    <dd><strong>Assistant researcher</strong> at ETRI</dd>
     <dt style="color: #7a7a7a">2022.03 - 2023.08</dt>
-    <dd><strong>Assistant Researcher</strong> at Seoul National Univ.</dd>
+    <dd><strong>Assistant researcher</strong> at Seoul National Univ.</dd>
 </dl>
 <dl id="exp-kor" style="display:none">
     <dt style="color: #7a7a7a">2024.01 - 현재</dt>
