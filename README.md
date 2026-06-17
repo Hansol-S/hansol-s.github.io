@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0 0 16px 0;">Exprience</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor">kor</a>]</span></div>
+<div style="display: flex; align-items: baseline; gap: 8px;"><h2 style="margin: 0 0 16px 0;">Experience</h2><span style="font-size: 14px;">[<a href="javascript:void(0)" onclick="toggleExpLang('eng')" id="exp-link-eng" style="font-weight: bold;">eng</a>/<a href="javascript:void(0)" onclick="toggleExpLang('kor')" id="exp-link-kor">kor</a>]</span></div>
 
 <dl id="exp-eng">
     <dt style="color: #7a7a7a">2024.01 - present</dt>
@@ -137,7 +137,7 @@ function toggleEduLang(lang) {
     <dt style="color: #7a7a7a">2024.01.01 - 2025.12.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development and field verification of customized FEMS technology for high energy processes (bio/pharmaceutical, food, metal/glass melting, papermaking)</dd>
     <dt style="color: #7a7a7a">2019.10.01 - 2023.06.30 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
-    <dd>Development of realtime diagnosis technology of home energy usage and smart & autonomous control/management system</dd>
+    <dd>Development of real-time diagnosis technology of home energy usage and smart & autonomous control/management system</dd>
     <dt style="color: #7a7a7a">2019.01.01 - 2021.08.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development of LIGHT-HVAC Management Systems for Energy Optimization and Business Model</dd>
     <dt style="color: #7a7a7a">2015.12.01 - 2018.09.30 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
@@ -178,14 +178,14 @@ function toggleProjLang(lang) {
 
 ## Publications
 
-### SCI(E) Journals
+### SCI(E) journals
 1. Yoo, Y.S., **Shin, H.S.**, Kim, D.W., & Park, C.S. (2024), Performance gap analysis for Korean building energy efficiency certification, *Energy and Buildings*, Vol 314, 1 July, 114294; doi: [10.1016/j.enbuild.2024.114294](https://doi.org/10.1016/j.enbuild.2024.114294)
 1. **Shin, H.** & Park, C.S. (2023), Parameter estimation for building energy models using GRcGAN, *Building Simulation*, 16(4), 629-639; doi: [10.1007/s12273-022-0965-1](https://doi.org/10.1007/s12273-022-0965-1)
 1. Ra, S.J., **Shin, H.S.**, & Park, C.S. (2022), Implementation of real-time model predictive heating control for a factory building using ANN-based lumped modeling approach, *Journal of Building Performance Simulation*, 16(2), 163-178; doi: [10.1080/19401493.2022.2125581](https://doi.org/10.1080/19401493.2022.2125581)
 1. Kim, Y.S., **Shin, H.S.**, & Park, C.S. (2022), Model predictive lighting control for a factory building using a deep deterministic policy gradient. *Journal of Building Performance Simulation*, 15(2), 174-193; doi: [10.1080/19401493.2021.2019310](https://doi.org/10.1080/19401493.2021.2019310)
 1. Ahn, K.U., **Shin, H.S.**, & Park, C.S. (2019), Energy Analysis of 4625 Office Buildings in South Korea, *Energies*, 12(6), 1114; doi: [10.3390/en12061114](https://doi.org/10.3390/en12061114)
 
-### KCI Journals
+### KCI journals
 1. 추한경, **신한솔**, 조성권, 유영서 & 박철수 (2022), 설명가능한 인공지능을 이용한 건물 에너지 사용량 민감도 분석, *대한건축학회 논문집*, 38(11), 279-287; doi: [10.5659/JAIK.2022.38.11.279](https://doi.org/10.5659/JAIK.2022.38.11.279)
 1. 김영섭, 김재민, **신한솔** & 박철수 (2020), 시뮬레이션 모델을 이용한 공장 건물의 조명 최적 제어, *대한건축학회 논문집*, 36(8), 127-135; doi: [10.5659/JAIK.2020.36.8.127](https://doi.org/10.5659/JAIK.2020.36.8.127)
 1. 추한경, **신한솔**, 안기언, 라선중 & 박철수 (2018), 점진적 샘플링과 정규 상호정보량을 이용한 온라인 기계학습 공조기 급기온도 예측 모델 개발, *대한건축학회 논문집-구조계*, 34(6), 63-69; doi: [10.5659/JAIK_SC.2018.34.6.63](https://doi.org/10.5659/JAIK_SC.2018.34.6.63)
@@ -217,7 +217,7 @@ function toggleProjLang(lang) {
 1. **Shin, H.S.**, & Park, C.S. (2017), Comparison of three random forest models of a chiller, Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association), August 7-9, San Francisco, California, USA., pp.1881-1886
 1. Ahn, K.U., **Shin, H.S.** & Park, C.S. (2016), Big-data analysis on energy consumption of office buildings in Seoul, Proceedings of the 3rd Asia conference of International Building Performance Simulation Association, November 27-29, Jeju, Republic of Korea
 
-### Korean  conferences
+### Korean conferences
 
 1. 김승현, 문지예, **신한솔**, 이좌형, 도윤미 & 박철수 (2025), 하이브리드 AI 냉동기 모델을 활용한 냉수 시스템의 확률적 최적 제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.235-236, 2025년 11월 14일
 1. 최우주, **신한솔** & 김선혁 (2025), Transformer-XGBoost 모델을 활용한 계통 한계 가격 핵심 영향 요인 분석, 한국통신학회 종합학술발표회 논문집, 2025년 11월 19-21일
