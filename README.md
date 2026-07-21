@@ -125,7 +125,7 @@ function toggleEduLang(lang) {
     <dd>Development and Validation of a BIM-Enabled Digital-Twin-Based Building Energy Management Simulator</dd>
     <dt style="color: #7a7a7a">2026.04.01 - 2026.06.30 | Commercialization Promotion Agency for R&amp;D Outcomes (COMPA)</dt>
     <dd>Development of Ontology-Integrated Data Lake and Multi-Agent Systems Supporting R&amp;D for AI-Driven Urban-scale Building Energy Management</dd>
-    <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 | Korea Institute for Advancement of Technology (KIAT)</dt>
+    <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 | Korea Evaluation Institute of Industrial Technology (KEIT)</dt>
     <dd>Quantum battery core technology for ultra-fast charging 100x faster than traditional lithium-ion batteries</dd>
     <dt style="color: #7a7a7a">2024.01.01 - 2026.12.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development and Construction of Korea Green Button Platform</dd>
@@ -257,7 +257,7 @@ function toggleProjLang(lang) {
 1. **신한솔**, 서원준, 추한경, 라선중, 박철수 (2016), 기존건축물의 빙축열 시스템 최적 제어를 위한 기계학습 모델, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.629-630, 2016년 10월 4-6일, BEXCO, 부산
 1. 서원준, 추한경, **신한솔**, 라선중, 박철수 (2016), 유전프로그래밍 기계학습을 이용한 냉동기 실시간 최적제어, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.627-628, 2016년 10월 4-6일, BEXCO, 부산
 1. 라선중, **신한솔**, 서원준, 추한경, 박철수 (2016), 기축 건물 HVAC 시스템의 기계학습 모델 개발 및 비교, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.625-626, 2016년 10월 4-6일, BEXCO, 부산
-1. **신한솔**, 윤성환, 박철수 (2016), 기존 건축물의 에너지 리트로핏 평가, 대한건축학회 춘계 학술발표대회 논문집, pp.235-236, 2016년 4월 30일, 숭실대학교, 서울
+1. **신한솔**, 윤성환, 박철수 (2016), 기존 건축물의 에너지 리트로핏 평가, 대한건축학회 춘계학술발표대회 논문집, pp.235-236, 2016년 4월 30일, 숭실대학교, 서울
 1. 윤성환, 안기언, 추한경, 김용세, 김영민, **신한솔**, 박철수 (2016) 기존 건축물의 에너지 성능 평가 모델과 에너지 사용량 예측 모델, 대한건축학회 춘계학술발표대회 논문집, pp.227-228, 2016년 4월 30일, 숭실대학교, 서울
 
 ### 학회지 (Journal)
