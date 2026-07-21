@@ -93,7 +93,7 @@ function toggleEduLang(lang) {
     <dd>LIGHT-HVAC 에너지최적화 시스템 및 BM 개발</dd>
     <dt style="color: #7a7a7a">2015.12.01 - 2018.09.30 | 한국에너지기술평가원</dt>
     <dd>기계학습 방법을 이용한 건물 에너지 시뮬레이터 개발 및 이를 이용한 건물 시스템의 자율 제어, 자율 진단을 통해 25% 에너지 절감 기술 개발</dd>
-    <dt style="color: #7a7a7a">2011.11.30 - 2016.06.29 | 국토해양부</dt>
+    <dt style="color: #7a7a7a">2011.11.30 - 2016.06.29 | 국토교통과학기술진흥원</dt>
     <dd>시장수요기반 기존건축물 녹색화 확산 연구</dd>
 </dl>
 
@@ -137,7 +137,7 @@ function toggleEduLang(lang) {
     <dd>Development of LIGHT-HVAC Management Systems for Energy Optimization and Business Model</dd>
     <dt style="color: #7a7a7a">2015.12.01 - 2018.09.30 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development of self-optimal control and self-diagnostics system based on machine learning-based building energy simulator for 25% energy reduction</dd>
-    <dt style="color: #7a7a7a">2011.11.30 - 2016.06.29 | Ministry of Land, Transport and Maritime Affairs</dt>
+    <dt style="color: #7a7a7a">2011.11.30 - 2016.06.29 | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
     <dd>Market demand-based research on green retrofit expansion for existing buildings</dd>
 </dl>
 
