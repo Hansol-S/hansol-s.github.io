@@ -279,6 +279,7 @@ function toggleProjLang(lang) {
 ## Patents
 
 ### International patents
+1. **신한솔**, 방수식, 도윤미, 이종재, 이창원, 박홍기, 정기범, "PIPELINE DEFECT MONITORING DEVICE AND METHOD", 미국, 출원번호 19/712,775, 출원일 2026-06-18 (우선권 주장: 한국 10-2025-0121527, 2025-08-28)
 1. 건물 에너지 관리 시스템을 통한 냉동기의 최적 제어 방법 및 장치, 2017년 7월, PCT 국제출원번호: KR2017/007133
 
 ### Korean patents
