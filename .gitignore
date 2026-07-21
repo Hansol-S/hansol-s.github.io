@@ -15,5 +15,9 @@ _site/
 .bundle/
 vendor/
 
+# os
+.DS_Store
+Thumbs.db
+
 # custom
 *.bat

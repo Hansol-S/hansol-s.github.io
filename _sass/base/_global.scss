@@ -8,13 +8,8 @@
 }
 
 html {
-  font-family: $font-stack;
-  font-size: $font-size;
   line-height: 1.5;
-
-  @media (max-width: 38em) {
-    font-size: $font-size-mobile;
-  }
+  // font-family and font-size are set at the end of css/style.scss
 }
 
 body {

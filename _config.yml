@@ -1,29 +1,18 @@
+# There is no index file. GitHub Pages serves README.md as the home page and
+# wraps it in _layouts/default.html via jekyll-readme-index,
+# jekyll-optional-front-matter and jekyll-default-layout, which it enables
+# server-side. Listing them under `plugins` is not required.
+
 title:               Hansol Shin | 신한솔
 url:                 https://hansol-s.github.io
 baseurl:             ""
 
 markdown:            kramdown
-highlighter:         rouge
 
-exclude:             ['*.sublime-*', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+exclude:             ['LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
 
 permalink:           pretty
-paginate:            5
-paginate_path:       /blog/:num
-
-blog:
-  truncated_preview: false
 
 sass:
   sass_dir:          _sass
   style:             :compressed
-
-author:
-  name:              Hansol Shin
-  url:               hansol-s.github.io
-  email:
-
-plugins:
-  - jekyll-coffeescript
-  - jekyll-paginate
-  - jekyll-gist

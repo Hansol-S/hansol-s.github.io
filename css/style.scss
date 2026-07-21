@@ -10,7 +10,6 @@
 // Utility styles
 @import "utilities/mixins";
 @import "utilities/utils";
-@import "utilities/syntax-highlighting";
 @import "utilities/animations";
 
 // Core
@@ -21,13 +20,9 @@
 
 // Components
 @import "components/navigation";
-@import "components/pagination";
-@import "components/code";
-@import "components/message";
 
 // Pages
 @import "pages/landing";
-@import "pages/posts";
 
 
 //

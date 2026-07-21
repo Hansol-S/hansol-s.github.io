@@ -11,7 +11,12 @@
   margin-right: auto;
 }
 
-.ftr-links a {
+// Page wrapper, used by the page layout (see 404.html)
+.page {
+  margin-bottom: 4em;
+}
+
+.page-title {
+  margin-top: 0;
   color: $post-title-color;
-  padding: 0 0.3rem;
 }

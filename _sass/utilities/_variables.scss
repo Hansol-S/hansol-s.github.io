@@ -4,11 +4,7 @@
   */
 
 // Globals
-$font-stack: 'Source Sans Pro', sans-serif;
-$font-size: 17px;
-$font-size-mobile: 15px;
-
-$code-font-stack: 'Source Code Pro', monospace;
+$font-size: 17px; // navigation only; body size lives in css/style.scss
 
 // Body
 $body-text-color: #515151;
@@ -31,10 +27,5 @@ $nav-link-underline-color: #2098d1;
 $nav-icon-color: #ffffff;
 $nav-icon-background-color: #0A3b76;
 
-// Blog post headings and page titles
+// Page titles
 $post-title-color: #0A3b76;
-$post-date-color: #9a9a9a;
-
-// Message box
-$message-color: #717171;
-$message-background-color: #f9f9f9;
