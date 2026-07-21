@@ -90,10 +90,10 @@ function toggleEduLang(lang) {
 <h3 style="margin-top: 0;">국가 연구과제</h3>
 
 <dl>
-    <dt style="color: #7a7a7a">2026.04.01 - 2026.06.30 | 과학기술사업화진흥원</dt>
-    <dd>AI 기반 도시 단위 건물 에너지 통합 관리 R&amp;D 효율화를 위한 온톨로지 연계 데이터레이크 및 다중 에이전트 기술 개발 (사전기획)</dd>
     <dt style="color: #7a7a7a">2026.04.01 - 2029.12.31 | 한국에너지기술평가원</dt>
     <dd>BIM 활용 디지털트윈 기반 건물에너지 관리 시뮬레이터 개발 및 실증</dd>
+    <dt style="color: #7a7a7a">2026.04.01 - 2026.06.30 | 과학기술사업화진흥원</dt>
+    <dd>AI 기반 도시 단위 건물 에너지 통합 관리 R&amp;D 효율화를 위한 온톨로지 연계 데이터레이크 및 다중 에이전트 기술 개발 (사전기획)</dd>
     <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 | 한국산업기술기획평가원</dt>
     <dd>기존 리튬이온 배터리 대비 100배 빠른 초고속 충전 양자배터리 핵심기술</dd>
     <dt style="color: #7a7a7a">2024.01.01 - 2026.12.31 | 한국에너지기술평가원</dt>
@@ -134,10 +134,10 @@ function toggleEduLang(lang) {
 <h3 style="margin-top: 0;">국가 연구과제</h3>
 
 <dl>
-    <dt style="color: #7a7a7a">2026.04.01 - 2026.06.30 | Commercialization Promotion Agency for R&amp;D Outcomes (COMPA)</dt>
-    <dd>Development of Ontology-Integrated Data Lake and Multi-Agent Systems Supporting R&amp;D for AI-Driven Urban-scale Building Energy Management</dd>
     <dt style="color: #7a7a7a">2026.04.01 - 2029.12.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development and Validation of a BIM-Enabled Digital-Twin-Based Building Energy Management Simulator</dd>
+    <dt style="color: #7a7a7a">2026.04.01 - 2026.06.30 | Commercialization Promotion Agency for R&amp;D Outcomes (COMPA)</dt>
+    <dd>Development of Ontology-Integrated Data Lake and Multi-Agent Systems Supporting R&amp;D for AI-Driven Urban-scale Building Energy Management</dd>
     <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 | Korea Institute for Advancement of Technology (KIAT)</dt>
     <dd>Quantum battery core technology for ultra-fast charging 100x faster than traditional lithium-ion batteries</dd>
     <dt style="color: #7a7a7a">2024.01.01 - 2026.12.31 | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
