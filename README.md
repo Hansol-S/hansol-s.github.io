@@ -206,6 +206,7 @@ function toggleProjLang(lang) {
 
 
 ### International conferences
+1. **Shin, H.**, Lee, J.H., Doh, Y. & Heo, T.W. (2026), Learned vs. Knowledge-based Causal Masks for Differential Pressure Prediction in a Pharmaceutical Cleanroom, Proceedings of the 7th Building Simulation Applications Conference (BSA 2026), June 24-26, Bozen-Bolzano, Italy, pp.xxx-xxx
 1. Kim, S., Mun, J., **Shin, H.**, Lee, J.H., Doh, Y. & Park, C.S. (2025), Stochastic optimal control of chiller systems: data-driven vs. hybrid AI, Proceedings of the International Symposium on Heating, Ventilating, and Air Conditioning (ISHVAC 2025), November 29 - December 2, pp.1-7
 1. **Shin, H.**, Lee, J.H. & Doh, Y. (2025), Causal Analysis of Inter-room Differential Pressure using GC-xLSTM, Proceedings of the International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2025), November 19-21, pp.302-303
 1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Optimizing Free-Cooling Operation in GMP-Regulated Pharmaceutical Cleanroom HVAC Systems via Transformer Attention-Aligned RL, Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025), October 14-17, pp.954-959
