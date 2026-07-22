@@ -2,10 +2,17 @@
 # wraps it in _layouts/default.html via jekyll-readme-index,
 # jekyll-optional-front-matter and jekyll-default-layout, which it enables
 # server-side. Listing them under `plugins` is not required.
+#
+# jekyll-sitemap is different: it ships with the github-pages gem but is NOT
+# enabled automatically, so it must be listed under `plugins` below. Without it
+# /sitemap.xml returns 404 and there is nothing to submit to Search Console.
 
 title:               Hansol Shin | 신한솔
 url:                 https://hansol-s.github.io
 baseurl:             ""
+
+plugins:
+  - jekyll-sitemap
 
 markdown:            kramdown
 
