@@ -120,16 +120,26 @@ function toggleEduLang(lang) {
     <dd>BEMS 에너지 절감 알고리즘 개발</dd>
     <dt style="color: #7a7a7a">2020.04.13 - 2020.12.02 (2020.04.13 - 2020.12.02) | 한국전력기술㈜</dt>
     <dd>강화학습을 적용한 건물에너지관리시스템(BEMS) 기술자문</dd>
-    <dt style="color: #c0c0c0">2019.11.26 - 2019.12.26 (2019.11.26 - 2019.12.26) | 한국에너지공단</dt>
-    <dd style="color: #c0c0c0">에너지사용실적 평가를 위한 외기온도 정보 적용방법론 연구</dd>
     <dt style="color: #7a7a7a">2019.12.02 - 2019.12.20 (2019.12.02 - 2019.12.20) | Dassault Systems (리치앤타임㈜)</dt>
     <dd>디지털 트윈시티 건물 에너지 해석</dd>
+    <dt style="color: #c0c0c0">2019.11.26 - 2019.12.26 (2019.11.26 - 2019.12.26) | 한국에너지공단</dt>
+    <dd style="color: #c0c0c0">에너지사용실적 평가를 위한 외기온도 정보 적용방법론 연구</dd>
+    <dt style="color: #c0c0c0">2019.07.08 - 2019.12.02 (2019.07.08 - 2019.12.02) | 한국전력기술㈜</dt>
+    <dd style="color: #c0c0c0">건물에너지관리시스템(BEMS) 건물운영 최적화 기술자문</dd>
+    <dt style="color: #c0c0c0">2019.05.17 - 2019.11.30 (2019.05.17 - 2019.11.30) | 한국에너지공단</dt>
+    <dd style="color: #c0c0c0">건축물의 에너지절약설계기준 개선방안 연구</dd>
     <dt style="color: #7a7a7a">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.01.31) | 서울에너지드림센터</dt>
     <dd>건물에너지저감을 위한 외부베네시안블라인드의 최적제어방안 연구 - 서울에너지드림센터를 중심으로</dd>
+    <dt style="color: #c0c0c0">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.02.28) | 서울대학교 (교내연구사업)</dt>
+    <dd style="color: #c0c0c0">서울대학교 캠퍼스 기존 건물의 에너지 효율화 방안</dd>
     <dt style="color: #c0c0c0">2018.10.08 - 2018.11.30 (2018.11.01 - 2018.11.30) | 한국전자통신연구원 (ETRI)</dt>
     <dd style="color: #c0c0c0">공장용 Light-HVAC 에너지 절감 데이터 분석 기술</dd>
     <dt style="color: #7a7a7a">2018.09.28 - 2018.11.30 (2018.09.28 - 2018.11.30) | 한국건설기술연구원 (KICT)</dt>
     <dd>Full&Deep 리모델링을 위한 에너지 사용 패턴 분석 알고리즘 적용가능성 검토 용역</dd>
+    <dt style="color: #c0c0c0">2018.07.26 - 2018.12.22 (2018.09.01 - 2018.12.22) | 한국에너지공단</dt>
+    <dd style="color: #c0c0c0">건축물 유형별 에너지사용패턴 분석을 통한 분석서비스 방법 고도화</dd>
+    <dt style="color: #c0c0c0">2018.04.01 - 2020.03.31 (2018.11.01 - 2020.03.31) | 서울대학교 (교내연구사업)</dt>
+    <dd style="color: #c0c0c0">스마트 건물 환경 시스템 구축을 위한 재실자 및 기계학습 시뮬레이션 모델</dd>
     <dt style="color: #c0c0c0">2016.10.01 - 2017.05.31 (2016.10.01 - 2017.05.31) | (주)우리젠</dt>
     <dd style="color: #c0c0c0">기존 건축물 에너지 진단을 위한 프로파일링 시스템 고도화 기능 개발</dd>
     <dt style="color: #7a7a7a">2016.10.13 - 2017.04.12 (2016.10.13 - 2017.04.12) | 한국전자통신연구원 (ETRI)</dt>
@@ -138,7 +148,7 @@ function toggleEduLang(lang) {
     <dd>기축 건물 에너지 성능 평가 기능 고도화 SW 제작</dd>
     <dt style="color: #c0c0c0">2016.05.16 - 2016.12.15 (2016.11.01 - 2016.12.15) | 삼성전자㈜</dt>
     <dd style="color: #c0c0c0">공조기기 운전 효율 예측 및 제어 알고리즘 개발</dd>
-    <dt style="color: #7a7a7a">2013.11 - 2014.05 | LG전자</dt>
+    <dt style="color: #7a7a7a">2013.11 - 2014.05 (2013.11 - 2014.05) | LG전자</dt>
     <dd>BEMS 에너지 절감 로직에 대한 효과 분석/평가</dd>
 </dl>
 
@@ -190,16 +200,26 @@ function toggleEduLang(lang) {
     <dd>Development of BEMS Energy Saving Algorithms</dd>
     <dt style="color: #7a7a7a">2020.04.13 - 2020.12.02 (2020.04.13 - 2020.12.02) | Korea Electric Power Engineering & Construction (KEPEC)</dt>
     <dd>Technical Consulting on BEMS using Reinforcement Learning</dd>
-    <dt style="color: #c0c0c0">2019.11.26 - 2019.12.26 (2019.11.26 - 2019.12.26) | Korea Energy Agency (KEA)</dt>
-    <dd style="color: #c0c0c0">Study on the Application of Outdoor Air Temperature Information for Energy Use Performance Assessment</dd>
     <dt style="color: #7a7a7a">2019.12.02 - 2019.12.20 (2019.12.02 - 2019.12.20) | Dassault Systems (Rich & Time Co., Ltd.)</dt>
     <dd>Building Energy Analysis for Digital Twin City</dd>
+    <dt style="color: #c0c0c0">2019.11.26 - 2019.12.26 (2019.11.26 - 2019.12.26) | Korea Energy Agency (KEA)</dt>
+    <dd style="color: #c0c0c0">Study on the Application of Outdoor Air Temperature Information for Energy Use Performance Assessment</dd>
+    <dt style="color: #c0c0c0">2019.07.08 - 2019.12.02 (2019.07.08 - 2019.12.02) | Korea Electric Power Engineering & Construction (KEPEC)</dt>
+    <dd style="color: #c0c0c0">Technical Consulting on Building Operation Optimization for BEMS</dd>
+    <dt style="color: #c0c0c0">2019.05.17 - 2019.11.30 (2019.05.17 - 2019.11.30) | Korea Energy Agency (KEA)</dt>
+    <dd style="color: #c0c0c0">Study on Improvement of the Building Energy Conservation Design Criteria</dd>
     <dt style="color: #7a7a7a">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.01.31) | Seoul Energy Dream Center</dt>
     <dd>Optimal Control of External Venetian Blinds for Building Energy Reduction - Focused on Seoul Energy Dream Center</dd>
+    <dt style="color: #c0c0c0">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.02.28) | Seoul National University (Internal Research Program)</dt>
+    <dd style="color: #c0c0c0">Energy Efficiency Improvement Strategies for Existing Buildings on the SNU Campus</dd>
     <dt style="color: #c0c0c0">2018.10.08 - 2018.11.30 (2018.11.01 - 2018.11.30) | Electronics and Telecommunications Research Institute (ETRI)</dt>
     <dd style="color: #c0c0c0">Data Analytics for Energy Savings in Factory-Use Light-HVAC Systems</dd>
     <dt style="color: #7a7a7a">2018.09.28 - 2018.11.30 (2018.09.28 - 2018.11.30) | Korea Institute of Civil Engineering and Building Technology (KICT)</dt>
     <dd>Feasibility Study of Energy Usage Pattern Analysis Algorithm for Full & Deep Remodeling</dd>
+    <dt style="color: #c0c0c0">2018.07.26 - 2018.12.22 (2018.09.01 - 2018.12.22) | Korea Energy Agency (KEA)</dt>
+    <dd style="color: #c0c0c0">Advancement of Analysis Services through Building-Type Energy Use Pattern Analysis</dd>
+    <dt style="color: #c0c0c0">2018.04.01 - 2020.03.31 (2018.11.01 - 2020.03.31) | Seoul National University (Internal Research Program)</dt>
+    <dd style="color: #c0c0c0">Occupant and Machine-Learning Simulation Models for Smart Building Environment Systems</dd>
     <dt style="color: #c0c0c0">2016.10.01 - 2017.05.31 (2016.10.01 - 2017.05.31) | Woorizen Co., Ltd.</dt>
     <dd style="color: #c0c0c0">Enhancement of a Building Energy Profiling System for Diagnosing Existing Buildings</dd>
     <dt style="color: #7a7a7a">2016.10.13 - 2017.04.12 (2016.10.13 - 2017.04.12) | Electronics and Telecommunications Research Institute (ETRI)</dt>
@@ -208,7 +228,7 @@ function toggleEduLang(lang) {
     <dd>Existing Building Energy Performance Evaluation Software Development</dd>
     <dt style="color: #c0c0c0">2016.05.16 - 2016.12.15 (2016.11.01 - 2016.12.15) | Samsung Electronics</dt>
     <dd style="color: #c0c0c0">Development of Operating Efficiency Prediction and Control Algorithms for Air-Handling Equipment</dd>
-    <dt style="color: #7a7a7a">2013.11 - 2014.05 | LG Electronics</dt>
+    <dt style="color: #7a7a7a">2013.11 - 2014.05 (2013.11 - 2014.05) | LG Electronics</dt>
     <dd>Effectiveness Analysis and Evaluation of BEMS Energy Saving Logic</dd>
 </dl>
 
