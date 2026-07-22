@@ -81,36 +81,36 @@ function toggleEduLang(lang) {
     <dd>BIM 활용 디지털트윈 기반 건물에너지 관리 시뮬레이터 개발 및 실증</dd>
     <dt style="color: #7a7a7a">2026.04.01 - 2026.06.30 (2026.04.01 - 2026.06.30) | 과학기술사업화진흥원</dt>
     <dd>AI 기반 도시 단위 건물 에너지 통합 관리 R&amp;D 효율화를 위한 온톨로지 연계 데이터레이크 및 다중 에이전트 기술 개발 (사전기획)</dd>
-    <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 (2025.06.01 - 2031.12.31) | 한국산업기술기획평가원</dt>
+    <dt style="color: #7a7a7a">2025.06.01 - 2031.12.31 (2025.04.01 - 2031.12.31) | 한국산업기술기획평가원</dt>
     <dd>기존 리튬이온 배터리 대비 100배 빠른 초고속 충전 양자배터리 핵심기술</dd>
-    <dt style="color: #7a7a7a">2023.04.01 - 2026.12.31 (2023.09.01 - 2026.12.31) | 한국에너지기술평가원</dt>
-    <dd>한국형 그린버튼 플랫폼 개발 및 구축</dd>
-    <dt style="color: #7a7a7a">2022.04.01 - 2026.12.31 (2022.04.01 - 2024.12.31) | 국토교통과학기술진흥원</dt>
-    <dd>그린리모델링 활성화를 위한 건축물 에너지 디지털 진단 및 설계 자동화 기술개발</dd>
-    <dt style="color: #7a7a7a">2020.07.01 - 2024.09.30 (2020.07.01 - 2022.08.31) | 한국에너지기술평가원</dt>
-    <dd>기존 공공건물 에너지 효율 진단 및 리모델링 기술 개발 실증</dd>
-    <dt style="color: #7a7a7a">2020.05.01 - 2025.12.31 (2024.01.01 - 2025.12.31) | 한국에너지기술평가원</dt>
+    <dt style="color: #7a7a7a">2024.01.01 - 2025.12.31 (2020.05.01 - 2025.12.31) | 한국에너지기술평가원</dt>
     <dd>에너지다소비 업종(바이오·의약, 식품, 금속·유리 용해, 제지)대상 맞춤형 공장에너지 관리시스템(FEMS) 기술 개발 및 실증</dd>
-    <dt style="color: #7a7a7a">2020.05.01 - 2025.06.30 (2021.01.01 - 2021.12.31) | 한국에너지기술평가원</dt>
-    <dd>제로에너지건축물 구현을 위한 스마트 외장재/설비 융복합 기술개발 및 성능평가 체계 구축, 실증</dd>
-    <dt style="color: #7a7a7a">2019.10.01 - 2023.08.31 (2019.10.01 - 2022.02.25) | 한국에너지기술평가원</dt>
+    <dt style="color: #7a7a7a">2023.09.01 - 2026.12.31 (2023.04.01 - 2026.12.31) | 한국에너지기술평가원</dt>
+    <dd>한국형 그린버튼 플랫폼 개발 및 구축</dd>
+    <dt style="color: #c0c0c0">2022.04.01 - 2024.12.31 (2022.04.01 - 2026.12.31) | 국토교통과학기술진흥원</dt>
+    <dd style="color: #c0c0c0">그린리모델링 활성화를 위한 건축물 에너지 디지털 진단 및 설계 자동화 기술개발</dd>
+    <dt style="color: #c0c0c0">2021.01.01 - 2021.12.31 (2020.05.01 - 2025.06.30) | 한국에너지기술평가원</dt>
+    <dd style="color: #c0c0c0">제로에너지건축물 구현을 위한 스마트 외장재/설비 융복합 기술개발 및 성능평가 체계 구축, 실증</dd>
+    <dt style="color: #c0c0c0">2020.07.01 - 2022.08.31 (2020.07.01 - 2024.09.30) | 한국에너지기술평가원</dt>
+    <dd style="color: #c0c0c0">기존 공공건물 에너지 효율 진단 및 리모델링 기술 개발 실증</dd>
+    <dt style="color: #7a7a7a">2019.10.01 - 2022.02.25 (2019.10.01 - 2023.08.31) | 한국에너지기술평가원</dt>
     <dd>가정 에너지 사용량 실시간 진단 및 지능형 자율제어/관리 시스템 원천기술 개발</dd>
-    <dt style="color: #c0c0c0">2019.04.01 - 2019.12.31 (2019.06.14 - 2019.12.31) | 국토교통과학기술진흥원</dt>
-    <dd style="color: #c0c0c0">기존 건축물 저탄소 에너지효율화 리모델링 최적 모델 개발</dd>
-    <dt style="color: #7a7a7a">2018.05.01 - 2021.08.31 (2019.07.01 - 2021.08.31) | 한국에너지기술평가원</dt>
+    <dt style="color: #7a7a7a">2019.07.01 - 2021.08.31 (2018.05.01 - 2021.08.31) | 한국에너지기술평가원</dt>
     <dd>LIGHT-HVAC 에너지최적화 시스템 및 BM 개발</dd>
-    <dt style="color: #c0c0c0">2017.03.01 - 2020.02.29 (2019.03.01 - 2020.02.29) | 한국연구재단</dt>
+    <dt style="color: #c0c0c0">2019.06.14 - 2019.12.31 (2019.04.01 - 2019.12.31) | 국토교통과학기술진흥원</dt>
+    <dd style="color: #c0c0c0">기존 건축물 저탄소 에너지효율화 리모델링 최적 모델 개발</dd>
+    <dt style="color: #c0c0c0">2019.03.01 - 2020.02.29 (2017.03.01 - 2020.02.29) | 한국연구재단</dt>
     <dd style="color: #c0c0c0">학교 건물의 냉방부하 절감을 위한 자연환기 활용 건축 디자인 및 운영지침 가이드라인 개발에 관한 연구</dd>
     <dt style="color: #7a7a7a">2015.12.01 - 2018.09.30 (2015.12.01 - 2018.09.30) | 한국에너지기술평가원</dt>
     <dd>기계학습 방법을 이용한 건물 에너지 시뮬레이터 개발 및 이를 이용한 건물 시스템의 자율 제어, 자율 진단을 통해 25% 에너지 절감 기술 개발</dd>
-    <dt style="color: #c0c0c0">2015.07.01 - 2016.11.30 (2015.07.01 - 2016.02.29) | 국토교통과학기술진흥원</dt>
+    <dt style="color: #c0c0c0">2015.07.01 - 2016.02.29 (2015.07.01 - 2016.11.30) | 국토교통과학기술진흥원</dt>
     <dd style="color: #c0c0c0">CO2절감을 위한 기존건축물 성능평가 방법론 및 M&amp;V방안</dd>
-    <dt style="color: #c0c0c0">2015.06.30 - 2016.11.12 (2015.07.01 - 2016.02.29) | 국토교통과학기술진흥원</dt>
+    <dt style="color: #c0c0c0">2015.07.01 - 2016.02.29 (2015.06.30 - 2016.11.12) | 국토교통과학기술진흥원</dt>
     <dd style="color: #c0c0c0">개방형BIM기반 설계품질 검증기술 개발 및 인증체계</dd>
-    <dt style="color: #c0c0c0">2013.11.13 - 2015.06.29 (2014.07.01 - 2015.08.31) | 국토교통과학기술진흥원</dt>
-    <dd style="color: #c0c0c0">건축물 설계품질 혁신을 위한 개방형 BIM 기술 환경구축</dd>
-    <dt style="color: #7a7a7a">2011.12.16 - 2016.11.30 (2014.07.01 - 2016.06.29) | 국토교통과학기술진흥원</dt>
+    <dt style="color: #7a7a7a">2014.07.01 - 2016.06.29 (2011.12.16 - 2016.11.30) | 국토교통과학기술진흥원</dt>
     <dd>시장수요기반 기존건축물 녹색화 확산 연구</dd>
+    <dt style="color: #c0c0c0">2014.07.01 - 2015.08.31 (2013.11.13 - 2015.06.29) | 국토교통과학기술진흥원</dt>
+    <dd style="color: #c0c0c0">건축물 설계품질 혁신을 위한 개방형 BIM 기술 환경구축</dd>
 </dl>
 
 <h3>용역수행</h3>
@@ -128,26 +128,26 @@ function toggleEduLang(lang) {
     <dd style="color: #c0c0c0">건물에너지관리시스템(BEMS) 건물운영 최적화 기술자문</dd>
     <dt style="color: #c0c0c0">2019.05.17 - 2019.11.30 (2019.05.17 - 2019.11.30) | 한국에너지공단</dt>
     <dd style="color: #c0c0c0">건축물의 에너지절약설계기준 개선방안 연구</dd>
-    <dt style="color: #7a7a7a">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.01.31) | 서울에너지드림센터</dt>
-    <dd>건물에너지저감을 위한 외부베네시안블라인드의 최적제어방안 연구 - 서울에너지드림센터를 중심으로</dd>
     <dt style="color: #c0c0c0">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.02.28) | 서울대학교 (교내연구사업)</dt>
     <dd style="color: #c0c0c0">서울대학교 캠퍼스 기존 건물의 에너지 효율화 방안</dd>
-    <dt style="color: #c0c0c0">2018.10.08 - 2018.11.30 (2018.11.01 - 2018.11.30) | 한국전자통신연구원 (ETRI)</dt>
+    <dt style="color: #7a7a7a">2018.12.01 - 2019.01.31 (2018.12.01 - 2019.02.28) | 서울에너지드림센터</dt>
+    <dd>건물에너지저감을 위한 외부베네시안블라인드의 최적제어방안 연구 - 서울에너지드림센터를 중심으로</dd>
+    <dt style="color: #c0c0c0">2018.11.01 - 2020.03.31 (2018.04.01 - 2020.03.31) | 서울대학교 (교내연구사업)</dt>
+    <dd style="color: #c0c0c0">스마트 건물 환경 시스템 구축을 위한 재실자 및 기계학습 시뮬레이션 모델</dd>
+    <dt style="color: #c0c0c0">2018.11.01 - 2018.11.30 (2018.10.08 - 2018.11.30) | 한국전자통신연구원 (ETRI)</dt>
     <dd style="color: #c0c0c0">공장용 Light-HVAC 에너지 절감 데이터 분석 기술</dd>
     <dt style="color: #7a7a7a">2018.09.28 - 2018.11.30 (2018.09.28 - 2018.11.30) | 한국건설기술연구원 (KICT)</dt>
     <dd>Full&Deep 리모델링을 위한 에너지 사용 패턴 분석 알고리즘 적용가능성 검토 용역</dd>
-    <dt style="color: #c0c0c0">2018.07.26 - 2018.12.22 (2018.09.01 - 2018.12.22) | 한국에너지공단</dt>
+    <dt style="color: #c0c0c0">2018.09.01 - 2018.12.22 (2018.07.26 - 2018.12.22) | 한국에너지공단</dt>
     <dd style="color: #c0c0c0">건축물 유형별 에너지사용패턴 분석을 통한 분석서비스 방법 고도화</dd>
-    <dt style="color: #c0c0c0">2018.04.01 - 2020.03.31 (2018.11.01 - 2020.03.31) | 서울대학교 (교내연구사업)</dt>
-    <dd style="color: #c0c0c0">스마트 건물 환경 시스템 구축을 위한 재실자 및 기계학습 시뮬레이션 모델</dd>
-    <dt style="color: #c0c0c0">2016.10.01 - 2017.05.31 (2016.10.01 - 2017.05.31) | (주)우리젠</dt>
-    <dd style="color: #c0c0c0">기존 건축물 에너지 진단을 위한 프로파일링 시스템 고도화 기능 개발</dd>
+    <dt style="color: #c0c0c0">2016.11.01 - 2016.12.15 (2016.05.16 - 2016.12.15) | 삼성전자㈜</dt>
+    <dd style="color: #c0c0c0">공조기기 운전 효율 예측 및 제어 알고리즘 개발</dd>
     <dt style="color: #7a7a7a">2016.10.13 - 2017.04.12 (2016.10.13 - 2017.04.12) | 한국전자통신연구원 (ETRI)</dt>
     <dd>MBCx 기반 건물에너지 성능진단 기능 고도화 SW 제작</dd>
     <dt style="color: #7a7a7a">2016.10.13 - 2017.04.12 (2016.10.13 - 2017.04.12) | 한국전자통신연구원 (ETRI)</dt>
     <dd>기축 건물 에너지 성능 평가 기능 고도화 SW 제작</dd>
-    <dt style="color: #c0c0c0">2016.05.16 - 2016.12.15 (2016.11.01 - 2016.12.15) | 삼성전자㈜</dt>
-    <dd style="color: #c0c0c0">공조기기 운전 효율 예측 및 제어 알고리즘 개발</dd>
+    <dt style="color: #c0c0c0">2016.10.01 - 2017.05.31 (2016.10.01 - 2017.05.31) | (주)우리젠</dt>
+    <dd style="color: #c0c0c0">기존 건축물 에너지 진단을 위한 프로파일링 시스템 고도화 기능 개발</dd>
     <dt style="color: #7a7a7a">2013.11 - 2014.05 (2013.11 - 2014.05) | LG전자</dt>
     <dd>BEMS 에너지 절감 로직에 대한 효과 분석/평가</dd>
 </dl>
@@ -161,36 +161,36 @@ function toggleEduLang(lang) {
     <dd>Development and Validation of a BIM-Enabled Digital-Twin-Based Building Energy Management Simulator</dd>
     <dt style="color: #7a7a7a">2026.04.01 - 2026.06.30 (2026.04.01 - 2026.06.30) | Commercialization Promotion Agency for R&amp;D Outcomes (COMPA)</dt>
     <dd>Development of Ontology-Integrated Data Lake and Multi-Agent Systems Supporting R&amp;D for AI-Driven Urban-scale Building Energy Management</dd>
-    <dt style="color: #7a7a7a">2025.04.01 - 2031.12.31 (2025.06.01 - 2031.12.31) | Korea Evaluation Institute of Industrial Technology (KEIT)</dt>
+    <dt style="color: #7a7a7a">2025.06.01 - 2031.12.31 (2025.04.01 - 2031.12.31) | Korea Evaluation Institute of Industrial Technology (KEIT)</dt>
     <dd>Quantum battery core technology for ultra-fast charging 100x faster than traditional lithium-ion batteries</dd>
-    <dt style="color: #7a7a7a">2023.04.01 - 2026.12.31 (2023.09.01 - 2026.12.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
-    <dd>Development and Construction of Korea Green Button Platform</dd>
-    <dt style="color: #7a7a7a">2022.04.01 - 2026.12.31 (2022.04.01 - 2024.12.31) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
-    <dd>Development of Digital Energy Diagnosis and Design Automation Technology for Buildings to Promote Green Remodeling</dd>
-    <dt style="color: #7a7a7a">2020.07.01 - 2024.09.30 (2020.07.01 - 2022.08.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
-    <dd>Development and Demonstration of Energy Efficiency Diagnosis and Remodeling Technology for Existing Public Buildings</dd>
-    <dt style="color: #7a7a7a">2020.05.01 - 2025.12.31 (2024.01.01 - 2025.12.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
+    <dt style="color: #7a7a7a">2024.01.01 - 2025.12.31 (2020.05.01 - 2025.12.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development and field verification of customized FEMS technology for high energy processes (bio/pharmaceutical, food, metal/glass melting, papermaking)</dd>
-    <dt style="color: #7a7a7a">2020.05.01 - 2025.06.30 (2021.01.01 - 2021.12.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
-    <dd>Development of Smart Envelope/System Convergence Technology and Establishment of a Performance Evaluation Framework for Zero-Energy Buildings, with Demonstration</dd>
-    <dt style="color: #7a7a7a">2019.10.01 - 2023.08.31 (2019.10.01 - 2022.02.25) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
+    <dt style="color: #7a7a7a">2023.09.01 - 2026.12.31 (2023.04.01 - 2026.12.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
+    <dd>Development and Construction of Korea Green Button Platform</dd>
+    <dt style="color: #c0c0c0">2022.04.01 - 2024.12.31 (2022.04.01 - 2026.12.31) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
+    <dd style="color: #c0c0c0">Development of Digital Energy Diagnosis and Design Automation Technology for Buildings to Promote Green Remodeling</dd>
+    <dt style="color: #c0c0c0">2021.01.01 - 2021.12.31 (2020.05.01 - 2025.06.30) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
+    <dd style="color: #c0c0c0">Development of Smart Envelope/System Convergence Technology and Establishment of a Performance Evaluation Framework for Zero-Energy Buildings, with Demonstration</dd>
+    <dt style="color: #c0c0c0">2020.07.01 - 2022.08.31 (2020.07.01 - 2024.09.30) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
+    <dd style="color: #c0c0c0">Development and Demonstration of Energy Efficiency Diagnosis and Remodeling Technology for Existing Public Buildings</dd>
+    <dt style="color: #7a7a7a">2019.10.01 - 2022.02.25 (2019.10.01 - 2023.08.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development of real-time diagnosis technology of home energy usage and smart & autonomous control/management system</dd>
-    <dt style="color: #c0c0c0">2019.04.01 - 2019.12.31 (2019.06.14 - 2019.12.31) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
-    <dd style="color: #c0c0c0">Development of an Optimal Low-Carbon Energy-Efficiency Retrofit Model for Existing Buildings</dd>
-    <dt style="color: #7a7a7a">2018.05.01 - 2021.08.31 (2019.07.01 - 2021.08.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
+    <dt style="color: #7a7a7a">2019.07.01 - 2021.08.31 (2018.05.01 - 2021.08.31) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development of LIGHT-HVAC Management Systems for Energy Optimization and Business Model</dd>
-    <dt style="color: #c0c0c0">2017.03.01 - 2020.02.29 (2019.03.01 - 2020.02.29) | National Research Foundation of Korea (NRF)</dt>
+    <dt style="color: #c0c0c0">2019.06.14 - 2019.12.31 (2019.04.01 - 2019.12.31) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
+    <dd style="color: #c0c0c0">Development of an Optimal Low-Carbon Energy-Efficiency Retrofit Model for Existing Buildings</dd>
+    <dt style="color: #c0c0c0">2019.03.01 - 2020.02.29 (2017.03.01 - 2020.02.29) | National Research Foundation of Korea (NRF)</dt>
     <dd style="color: #c0c0c0">Development of Architectural Design and Operation Guidelines Utilizing Natural Ventilation for Cooling Load Reduction in School Buildings</dd>
     <dt style="color: #7a7a7a">2015.12.01 - 2018.09.30 (2015.12.01 - 2018.09.30) | Korea Institute of Energy Technology Evaluation and Planning (KETEP)</dt>
     <dd>Development of self-optimal control and self-diagnostics system based on machine learning-based building energy simulator for 25% energy reduction</dd>
-    <dt style="color: #c0c0c0">2015.07.01 - 2016.11.30 (2015.07.01 - 2016.02.29) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
+    <dt style="color: #c0c0c0">2015.07.01 - 2016.02.29 (2015.07.01 - 2016.11.30) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
     <dd style="color: #c0c0c0">Performance Assessment Methodology and M&amp;V Approach for Existing Buildings toward CO2 Reduction</dd>
-    <dt style="color: #c0c0c0">2015.06.30 - 2016.11.12 (2015.07.01 - 2016.02.29) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
+    <dt style="color: #c0c0c0">2015.07.01 - 2016.02.29 (2015.06.30 - 2016.11.12) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
     <dd style="color: #c0c0c0">Development of Open BIM-based Design Quality Verification Technology and Certification System</dd>
-    <dt style="color: #c0c0c0">2013.11.13 - 2015.06.29 (2014.07.01 - 2015.08.31) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
-    <dd style="color: #c0c0c0">Development of Open BIM Technology Environment for Innovating Building Design Quality</dd>
-    <dt style="color: #7a7a7a">2011.12.16 - 2016.11.30 (2014.07.01 - 2016.06.29) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
+    <dt style="color: #7a7a7a">2014.07.01 - 2016.06.29 (2011.12.16 - 2016.11.30) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
     <dd>Market demand-based research on green retrofit expansion for existing buildings</dd>
+    <dt style="color: #c0c0c0">2014.07.01 - 2015.08.31 (2013.11.13 - 2015.06.29) | Korea Agency for Infrastructure Technology Advancement (KAIA)</dt>
+    <dd style="color: #c0c0c0">Development of Open BIM Technology Environment for Innovating Building Design Quality</dd>
 </dl>
 
 <h3>용역수행</h3>
@@ -208,26 +208,26 @@ function toggleEduLang(lang) {
     <dd style="color: #c0c0c0">Technical Consulting on Building Operation Optimization for BEMS</dd>
     <dt style="color: #c0c0c0">2019.05.17 - 2019.11.30 (2019.05.17 - 2019.11.30) | Korea Energy Agency (KEA)</dt>
     <dd style="color: #c0c0c0">Study on Improvement of the Building Energy Conservation Design Criteria</dd>
-    <dt style="color: #7a7a7a">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.01.31) | Seoul Energy Dream Center</dt>
-    <dd>Optimal Control of External Venetian Blinds for Building Energy Reduction - Focused on Seoul Energy Dream Center</dd>
     <dt style="color: #c0c0c0">2018.12.01 - 2019.02.28 (2018.12.01 - 2019.02.28) | Seoul National University (Internal Research Program)</dt>
     <dd style="color: #c0c0c0">Energy Efficiency Improvement Strategies for Existing Buildings on the SNU Campus</dd>
-    <dt style="color: #c0c0c0">2018.10.08 - 2018.11.30 (2018.11.01 - 2018.11.30) | Electronics and Telecommunications Research Institute (ETRI)</dt>
+    <dt style="color: #7a7a7a">2018.12.01 - 2019.01.31 (2018.12.01 - 2019.02.28) | Seoul Energy Dream Center</dt>
+    <dd>Optimal Control of External Venetian Blinds for Building Energy Reduction - Focused on Seoul Energy Dream Center</dd>
+    <dt style="color: #c0c0c0">2018.11.01 - 2020.03.31 (2018.04.01 - 2020.03.31) | Seoul National University (Internal Research Program)</dt>
+    <dd style="color: #c0c0c0">Occupant and Machine-Learning Simulation Models for Smart Building Environment Systems</dd>
+    <dt style="color: #c0c0c0">2018.11.01 - 2018.11.30 (2018.10.08 - 2018.11.30) | Electronics and Telecommunications Research Institute (ETRI)</dt>
     <dd style="color: #c0c0c0">Data Analytics for Energy Savings in Factory-Use Light-HVAC Systems</dd>
     <dt style="color: #7a7a7a">2018.09.28 - 2018.11.30 (2018.09.28 - 2018.11.30) | Korea Institute of Civil Engineering and Building Technology (KICT)</dt>
     <dd>Feasibility Study of Energy Usage Pattern Analysis Algorithm for Full & Deep Remodeling</dd>
-    <dt style="color: #c0c0c0">2018.07.26 - 2018.12.22 (2018.09.01 - 2018.12.22) | Korea Energy Agency (KEA)</dt>
+    <dt style="color: #c0c0c0">2018.09.01 - 2018.12.22 (2018.07.26 - 2018.12.22) | Korea Energy Agency (KEA)</dt>
     <dd style="color: #c0c0c0">Advancement of Analysis Services through Building-Type Energy Use Pattern Analysis</dd>
-    <dt style="color: #c0c0c0">2018.04.01 - 2020.03.31 (2018.11.01 - 2020.03.31) | Seoul National University (Internal Research Program)</dt>
-    <dd style="color: #c0c0c0">Occupant and Machine-Learning Simulation Models for Smart Building Environment Systems</dd>
-    <dt style="color: #c0c0c0">2016.10.01 - 2017.05.31 (2016.10.01 - 2017.05.31) | Woorizen Co., Ltd.</dt>
-    <dd style="color: #c0c0c0">Enhancement of a Building Energy Profiling System for Diagnosing Existing Buildings</dd>
+    <dt style="color: #c0c0c0">2016.11.01 - 2016.12.15 (2016.05.16 - 2016.12.15) | Samsung Electronics</dt>
+    <dd style="color: #c0c0c0">Development of Operating Efficiency Prediction and Control Algorithms for Air-Handling Equipment</dd>
     <dt style="color: #7a7a7a">2016.10.13 - 2017.04.12 (2016.10.13 - 2017.04.12) | Electronics and Telecommunications Research Institute (ETRI)</dt>
     <dd>MBCx-based Building Energy Performance Diagnosis Software Development</dd>
     <dt style="color: #7a7a7a">2016.10.13 - 2017.04.12 (2016.10.13 - 2017.04.12) | Electronics and Telecommunications Research Institute (ETRI)</dt>
     <dd>Existing Building Energy Performance Evaluation Software Development</dd>
-    <dt style="color: #c0c0c0">2016.05.16 - 2016.12.15 (2016.11.01 - 2016.12.15) | Samsung Electronics</dt>
-    <dd style="color: #c0c0c0">Development of Operating Efficiency Prediction and Control Algorithms for Air-Handling Equipment</dd>
+    <dt style="color: #c0c0c0">2016.10.01 - 2017.05.31 (2016.10.01 - 2017.05.31) | Woorizen Co., Ltd.</dt>
+    <dd style="color: #c0c0c0">Enhancement of a Building Energy Profiling System for Diagnosing Existing Buildings</dd>
     <dt style="color: #7a7a7a">2013.11 - 2014.05 (2013.11 - 2014.05) | LG Electronics</dt>
     <dd>Effectiveness Analysis and Evaluation of BEMS Energy Saving Logic</dd>
 </dl>
