@@ -32,6 +32,10 @@
 
 html {
   font-size: 14px;
+  // 한글을 어절(띄어쓰기) 단위로만 줄바꿈. 띄어쓰기 없는 긴 덩어리가
+  // 한 줄에 안 들어갈 때만 break-word가 글자 사이 줄바꿈을 허용한다.
+  word-break: keep-all;
+  overflow-wrap: break-word;
   font-family: "Pretendard GOV Variable", "Pretendard GOV", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 }
 
