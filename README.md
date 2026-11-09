@@ -18,7 +18,7 @@
     <dt style="color: #7a7a7a">2023.09 - 2023.12</dt>
     <dd><strong>Assistant researcher</strong> at ETRI</dd>
     <dt style="color: #7a7a7a">2022.03 - 2023.08</dt>
-    <dd><strong>Assistant researcher</strong> at Seoul National Univ.</dd>
+    <dd><strong>Assistant researcher</strong> at Seoul National University</dd>
 </dl>
 <dl id="exp-kor" style="display:none">
     <dt style="color: #7a7a7a">2024.01 - 현재</dt>
@@ -42,13 +42,13 @@ function toggleExpLang(lang) {
 
 <dl id="edu-eng">
     <dt style="color: #7a7a7a">2018.09 - 2022.02</dt>
-    <dd><strong>Ph.D.</strong> in Department of Architecture and Architectural Engineering, Seoul National Univ.</dd>
+    <dd><strong>Ph.D.</strong> in Department of Architecture and Architectural Engineering, Seoul National University</dd>
     <dt style="color: #7a7a7a">2016.09 - 2018.08</dt>
-    <dd><strong>Ph.D.<em>(drop-out)</em></strong> in School of Civil, Architectural Engineering & Landscape Architecture, SungKyunKwan Univ.</dd>
+    <dd><strong>Ph.D.<em>(drop-out)</em></strong> in School of Civil, Architectural Engineering & Landscape Architecture, SungKyunKwan University</dd>
     <dt style="color: #7a7a7a">2014.03 - 2016.08</dt>
-    <dd><strong>M.S.</strong> in Department of Convergence Engineering for Future City, SungKyunKwan Univ.</dd>
+    <dd><strong>M.S.</strong> in Department of Convergence Engineering for Future City, SungKyunKwan University</dd>
     <dt style="color: #7a7a7a">2009.03 - 2014.02</dt>
-    <dd><strong>BSc.<em>(Eng.)</em></strong> in Architectural Engineering, SungKyunKwan Univ.</dd>
+    <dd><strong>BSc.<em>(Eng.)</em></strong> in Architectural Engineering, SungKyunKwan University</dd>
 </dl>
 <dl id="edu-kor" style="display:none">
     <dt style="color: #7a7a7a">2018.09 - 2022.02</dt>
@@ -265,111 +265,111 @@ function toggleProjLang(lang) {
 
 
 ### International conferences
-1. **Shin, H.**, Lee, J.H., Doh, Y. & Heo, T.W. (2026), Learned vs. Knowledge-based Causal Masks for Differential Pressure Prediction in a Pharmaceutical Cleanroom, Proceedings of the 7th Building Simulation Applications Conference (BSA 2026), June 24-26, Bozen-Bolzano, Italy, pp.xxx-xxx
-1. Kim, S., Mun, J., **Shin, H.**, Lee, J.H., Doh, Y. & Park, C.S. (2025), Stochastic optimal control of chiller systems: data-driven vs. hybrid AI, Proceedings of the International Symposium on Heating, Ventilating, and Air Conditioning (ISHVAC 2025), November 29 - December 2, pp.1-7
-1. **Shin, H.**, Lee, J.H. & Doh, Y. (2025), Causal Analysis of Inter-room Differential Pressure using GC-xLSTM, Proceedings of the International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2025), November 19-21, pp.302-303
-1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Optimizing Free-Cooling Operation in GMP-Regulated Pharmaceutical Cleanroom HVAC Systems via Transformer Attention-Aligned RL, Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025), October 14-17, pp.954-959
-1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Reinforcement Learning-Based Free Cooling Capacity Optimization for Pharmaceutical Cleanroom HVAC Systems, Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025), October 14-17, pp.427-432
-1. **Shin, H.**, Jeong, W.C., Lee, C. & Heo, T.W. (2024), Stochastic and interpretable prediction of industrial electricity consumption using Temporal Fusion Transformer, Proceedings of the Asia Conference of International Building Performance Simulation Association (ASim 2024), December 8-10, pp.1257-1264
-1. Yoo, Y.S., **Shin, H.**, Kim, D.W. & Park, C.S. (2023), Performance Gap Analysis in The Context of Building Energy Efficiency Certificate in South Korea, Proceedings of the 18th IBPSA conference, September 4-6, Shanghai, China
-1. **Shin, H.** & Park, C.S. (2022), GAN-based parameter estimation of building energy model, Proceedings of the 2022 ASHRAE Annual Conference, June 25-29, Toronto, Canada
-1. Ra, S.J., **Shin, H.S.** & Park, C.S. (2021), Real-time Model Predictive Heating Control for a Factory Building using Lumped Approach, Proceedings of the 2021 Winter Simulation Conference, December 13-17, Phoenix, Arizona, USA
-1. **Shin, H.** & Park, C.S. (2021), Parameter estimation of building energy simulation model using GRcGAN, Proceedings of the 12th International Symposium on Heating, Ventilation and Air Conditioning (ISHVAC 2021), November 24-26, Seoul, South Korea, pp.832-833 (Virtual Conference)
-1. Cho, S., **Shin, H.S.**, Choi, Y., Ko, Y.D. & Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference, December 14-18, Orlando, USA (Virtual Conference)
-1. Choi, Y., **Shin, H.S.**, Cho, S., Ko, Y.D. & Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference, December 14-18, Orlando, USA (Virtual Conference)
-1. **Shin, H.S.**, Kim, D.W. & Park, C.S. (2020), Predictability of Building Energy Simulation for Existing Buildings, Proceedings of the 2020 Winter Simulation Conference, December 14-18, Orlando, USA (Virtual Conference)
-1. Park, S.H., Ahn, K.U., Hwang, S.H., Choi, S.K., **Shin, H.S.**, Yi, D.H. & Park, C.S. (2019), Scenario-based HVAC energy cost optimizer for heterogeneous heat-source systems of real-life hospital building, Proceedings of the 16th IBPSA conference, September 2-4, Rome, Italy, pp.3022-3029
-1. Kim, J.M., **Shin, H.S.**, Yi, D.H., Park, S.H., Park, C.S. & Yeo, M.S. (2018), Support Vector Data Description for removal of multivariate outliers in a compression chiller’s operation data, Proceedings of the 4th Asia Conference of International Building Performance Simulation Association, December 3-5, Hong Kong
-1. Chu, H.G., **Shin, H.S.**, Ahn, K.U., Ra, S.J., Park, C.S. & Yeo, M.S. (2018), Online Machine Learning Model In Building Simulation Using Mutual Information, Proceedings of the 2018 Summer Simulation Multi-Conference, July 9-12, Bordeaux, France
-1. Ra, S.J., **Shin, H.S.**, Suh, W.J., Chu, H.G. & Park, C.S. (2017), Application of machine learning models to real-life HVAC systems, Proceedings of the third international conference on Machine Learning, Optimization and Big Data (MOD), September 14-17, Volterra, Tuscany, Italy
-1. Ahn, K.U., **Shin, H.S.**, Park, C.S., & Kim, K.W. (2017), Big-data Analysis on Energy Consumption of Office Buildings in Seoul, Korea, Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association), August 7-9, San Francisco, California, USA., pp.1825-1832
-1. **Shin, H.S.**, & Park, C.S. (2017), Comparison of three random forest models of a chiller, Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association), August 7-9, San Francisco, California, USA., pp.1881-1886
-1. Ahn, K.U., **Shin, H.S.** & Park, C.S. (2016), Big-data analysis on energy consumption of office buildings in Seoul, Proceedings of the 3rd Asia conference of International Building Performance Simulation Association, November 27-29, Jeju, Republic of Korea
+1. **Shin, H.**, Lee, J.H., Doh, Y. & Heo, T.W. (2026), Learned vs. Knowledge-based Causal Masks for Differential Pressure Prediction in a Pharmaceutical Cleanroom, *Proceedings of the 7th Building Simulation Applications Conference (BSA 2026)*, June 24-26, Bozen-Bolzano, Italy, pp.xxx-xxx
+1. Kim, S., Mun, J., **Shin, H.**, Lee, J.H., Doh, Y. & Park, C.S. (2025), Stochastic optimal control of chiller systems: data-driven vs. hybrid AI, *Proceedings of the International Symposium on Heating, Ventilating, and Air Conditioning (ISHVAC 2025)*, November 29 - December 2, pp.1-7
+1. **Shin, H.**, Lee, J.H. & Doh, Y. (2025), Causal Analysis of Inter-room Differential Pressure using GC-xLSTM, *Proceedings of the International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2025)*, November 19-21, pp.302-303
+1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Optimizing Free-Cooling Operation in GMP-Regulated Pharmaceutical Cleanroom HVAC Systems via Transformer Attention-Aligned RL, *Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025)*, October 14-17, pp.954-959
+1. Lee, J.H., **Shin, H.**, Lee, C.W. & Doh, Y. (2025), Reinforcement Learning-Based Free Cooling Capacity Optimization for Pharmaceutical Cleanroom HVAC Systems, *Proceedings of the International Conference on Information and Communication Technology Convergence (ICTC 2025)*, October 14-17, pp.427-432
+1. **Shin, H.**, Jeong, W.C., Lee, C. & Heo, T.W. (2024), Stochastic and interpretable prediction of industrial electricity consumption using Temporal Fusion Transformer, *Proceedings of the Asia Conference of International Building Performance Simulation Association (ASim 2024)*, December 8-10, pp.1257-1264
+1. Yoo, Y.S., **Shin, H.**, Kim, D.W. & Park, C.S. (2023), Performance Gap Analysis in The Context of Building Energy Efficiency Certificate in South Korea, *Proceedings of the 18th IBPSA conference*, September 4-6, Shanghai, China
+1. **Shin, H.** & Park, C.S. (2022), GAN-based parameter estimation of building energy model, *Proceedings of the 2022 ASHRAE Annual Conference*, June 25-29, Toronto, Canada
+1. Ra, S.J., **Shin, H.S.** & Park, C.S. (2021), Real-time Model Predictive Heating Control for a Factory Building using Lumped Approach, *Proceedings of the 2021 Winter Simulation Conference*, December 13-17, Phoenix, Arizona, USA
+1. **Shin, H.** & Park, C.S. (2021), Parameter estimation of building energy simulation model using GRcGAN, *Proceedings of the 12th International Symposium on Heating, Ventilation and Air Conditioning (ISHVAC 2021)*, November 24-26, Seoul, South Korea, pp.832-833 (Virtual Conference)
+1. Cho, S., **Shin, H.S.**, Choi, Y., Ko, Y.D. & Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, *Proceedings of the 2020 Winter Simulation Conference*, December 14-18, Orlando, USA (Virtual Conference)
+1. Choi, Y., **Shin, H.S.**, Cho, S., Ko, Y.D. & Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, *Proceedings of the 2020 Winter Simulation Conference*, December 14-18, Orlando, USA (Virtual Conference)
+1. **Shin, H.S.**, Kim, D.W. & Park, C.S. (2020), Predictability of Building Energy Simulation for Existing Buildings, *Proceedings of the 2020 Winter Simulation Conference*, December 14-18, Orlando, USA (Virtual Conference)
+1. Park, S.H., Ahn, K.U., Hwang, S.H., Choi, S.K., **Shin, H.S.**, Yi, D.H. & Park, C.S. (2019), Scenario-based HVAC energy cost optimizer for heterogeneous heat-source systems of real-life hospital building, *Proceedings of the 16th IBPSA conference*, September 2-4, Rome, Italy, pp.3022-3029
+1. Kim, J.M., **Shin, H.S.**, Yi, D.H., Park, S.H., Park, C.S. & Yeo, M.S. (2018), Support Vector Data Description for removal of multivariate outliers in a compression chiller's operation data, *Proceedings of the 4th Asia Conference of International Building Performance Simulation Association*, December 3-5, Hong Kong
+1. Chu, H.G., **Shin, H.S.**, Ahn, K.U., Ra, S.J., Park, C.S. & Yeo, M.S. (2018), Online Machine Learning Model In Building Simulation Using Mutual Information, *Proceedings of the 2018 Summer Simulation Multi-Conference*, July 9-12, Bordeaux, France
+1. Ra, S.J., **Shin, H.S.**, Suh, W.J., Chu, H.G. & Park, C.S. (2017), Application of machine learning models to real-life HVAC systems, *Proceedings of the third international conference on Machine Learning, Optimization and Big Data (MOD)*, September 14-17, Volterra, Tuscany, Italy
+1. Ahn, K.U., **Shin, H.S.**, Park, C.S., & Kim, K.W. (2017), Big-data Analysis on Energy Consumption of Office Buildings in Seoul, Korea, *Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association)*, August 7-9, San Francisco, California, USA., pp.1825-1832
+1. **Shin, H.S.**, & Park, C.S. (2017), Comparison of three random forest models of a chiller, *Proceedings of the 15th IBPSA conference (International Building Performance Simulation Association)*, August 7-9, San Francisco, California, USA., pp.1881-1886
+1. Ahn, K.U., **Shin, H.S.** & Park, C.S. (2016), Big-data analysis on energy consumption of office buildings in Seoul, *Proceedings of the 3rd Asia conference of International Building Performance Simulation Association*, November 27-29, Jeju, Republic of Korea
 
 ### Korean conferences
 
-1. **신한솔**, 서원준, 이좌형, 도윤미 (2026), 기후변화에 따른 외기냉수냉방 절감량 분석, 대한건축학회 추계학술발표대회논문집, pp.xxx-xxx, 2026년 10월 21-23일
-1. 김동현, 문지예, 김승현, **신한솔**, 이좌형, 도윤미, 박철수 (2026), 물리식 기반 가상센서 모델을 활용한 공조기 댐퍼 최적제어, 대한건축학회 춘계학술발표대회논문집, pp.513-514, 2026년 4월 28-30일
-1. 최우주, **신한솔**, 김선혁 (2025), Transformer-XGBoost 모델을 활용한 계통 한계 가격 핵심 영향 요인 분석, 한국통신학회 종합학술발표회 논문집, 2025년 11월 19-21일
-1. 김승현, 문지예, **신한솔**, 이좌형, 도윤미, 박철수 (2025), 하이브리드 AI 냉동기 모델을 활용한 냉수 시스템의 확률적 최적 제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.235-236, 2025년 11월 14일
-1. **신한솔**, 이좌형, 도윤미 (2025), GC-xLSTM을 이용한 실간 차압·댐퍼 인과관계 분석, 대한건축학회 추계학술발표대회논문집, pp.541-542, 2025년 10월 29-31일
-1. 손형준, 최진영, 김선혁, 도윤미, **신한솔** (2024), 제지 생산관리시스템의 데이터 자동 수집을 위한 랜덤 포레스트 기반 이상 프로세스 및 원인 분류, 한국통신학회 인공지능 학술대회 논문집, pp.145-146, 2024년 9월 25-28일, 소노캄 제주, 제주도
-1. 김상욱, 정운철, 이충호, 허태욱, **신한솔** (2024), 전력 예측 모델을 이용한 계절 변동성 기반 동적 계약전력 최적화, 한국통신학회 인공지능 학술대회 논문집, pp.301-302, 2024년 9월 25-28일, 소노캄 제주, 제주도
-1. **신한솔**, 정운철, 이충호, 허태욱 (2024), 기상 데이터를 활용한 산업시설 전력 소비량의 확률적 예측, 한국통신학회 학술대회논문집, pp.243-244, 2024년 6월 19-21일, 라마다프라자 제주호텔, 제주도
-1. **신한솔**, 이충호, 허태욱 (2024), 시계열 결측치 보간을 위한 전력 사용량의 확률적 예측, 한국통신학회 학술대회논문집, pp.62-63, 2024년 1월 31-2월 2일, 용평리조트, 강원도
-1. 김승현, **신한솔**, 조성권, 김진홍, 박철수 (2022), 주거 건물에서 거주자 재실 상태의 예측가능성 분석, 대한건축학회 춘계학술발표대회논문집, 제42권 제1호, pp.323-324, 2022년 4월 28-29일, 더케이호텔, 서울
-1. 라선중, 김진홍, 김영섭, 조형곤, **신한솔**, 박철수 (2021), 집중 시뮬레이션 모델을 활용한 건물의 실시간 냉방 예측 제어, 대한건축학회 추계학술발표대회논문집, 제41권 제2호, pp.323-324, 2021년 10월 27-30일, 여수엑스포컨벤션센터, 여수, 전라남도
-1. 라선중, **신한솔**, 김영섭, 조형곤, 김진홍, 박철수 (2021), 실내온도 예측을 통한 공장 건물의 실시간 난방 제어, 대한건축학회 춘계학술발표대회논문집, 제41권 제1호, pp.309-310, 2021년 4월 21-23일, 제주국제컨벤션센터, 서귀포, 제주도
-1. 김진홍, 조형곤, 김영섭, **신한솔**, 박철수 (2021), 인공신경망을 이용한 수평면 전 일사량 예측모델, 대한건축학회 춘계학술발표대회논문집, 제41권 제1호, pp.288-289, 2021년 4월 21-23일, 제주국제컨벤션센터, 서귀포, 제주도
-1. 고윤담, **신한솔**, 조성권, 최영식, 박철수 (2021), 딥러닝을 활용한 가정 에너지 사용량 데이터로부터 재실자 행동 패턴 식별, 2021년도 한국통신학회 동계종합학술발표회 논문집, pp.120-121, 2021년 2월 3-5일, 용평리조트, 평창
-1. 라선중, **신한솔**, 박철홍, 추한경, 박철수 (2020), 업무시설 AHU 시스템의 데이터 모델 기반 외기 냉방 제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.195-196, 2020년 11월 19-21일, 한국교통대학교, 충주
-1. 조형곤, **신한솔**, 김영섭, 박철수 (2020), 가우시안 프로세스를 이용한 실내 지점간 조도 비율 예측, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.153-154, 2020년 11월 19-21일, 한국교통대학교, 충주
-1. 조성권, **신한솔**, 김영섭, 유성호, 박철홍, 나춘수, 최기열, 박철수 (2020), 연합 모델을 이용한 강화학습 기반 병렬 냉방 시스템 최적제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.201-202, 2020년 11월 19-21일, 한국교통대학교, 충주
-1. 김영섭, 조형곤, **신한솔**, 박철수 (2020), DDPG 강화학습을 이용한 조명 제어, 대한건축학회 추계학술발표대회논문집, 제40권 제2호, pp.382-383, 2020년 10월 26-30일, 여수엑스포컨벤션센터, 여수 (온라인 발표)
-1. 최영식, 이동혁, **신한솔**, 추한경, 유성호, 박철수 (2020), 전이학습을 이용한 실내 온도 예측 시뮬레이션 모델 개발, 대한건축학회 추계학술발표대회논문집, 제40권 제2호, pp.386-387, 2020년 10월 26-30일, 여수엑스포컨벤션센터, 여수 (온라인 발표)
-1. **신한솔**, 고윤담, 조성권, 최영식, 박철수 (2020), 이종 시계열 데이터 간의 상관성 분석: 재실 스케줄과 냉방 에너지 사용량, 대한건축학회 춘계학술발표대회논문집, 제40권 제1호, pp.288-289, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
-1. 김영섭, 김재민, **신한솔**, 박철수 (2020), 최소한의 센서와 기계학습 모델을 이용한 자연채광 조도 예측, 대한건축학회 춘계학술발표대회논문집, 제40권 제1호, pp.293-294, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
-1. 고윤담, **신한솔**, 조성권, 최영식, 박철수 (2020), 재실자 행동에 따른 주거 건물 에너지 모델의 동적 민감도 분석의 불확실성, 대한건축학회 춘계학술발표대회논문집, 제40권 제1호, pp.299-300, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
-1. 조성권, **신한솔**, 고윤담, 최영식, 박철수 (2020), 냉방 기간 에너지 사용량에 대한 재실자 행동의 정적 및 동적 민감도 분석, 대한건축학회 춘계학술발표대회논문집, 제40권 제1호, pp.301-302, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
-1. 최영식, **신한솔**, 고윤담, 조성권, 박철수 (2020), Deep Ensembles를 이용한 기계학습 모델의 예측 불확실성 분석, 대한건축학회 춘계학술발표대회논문집, 제40권 제1호, pp.290-291, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
-1. 김재민, 김영섭, **신한솔**, 박철수 (2019), 인공신경망을 이용한 자연채광 조도예측모델 개발, 대한건축학회 추계학술발표대회논문집, 제39권 제2호, pp.581-582, 2019년 10월 24-25일, 충남대학교, 대전
-1. 김영섭, 김재민, **신한솔**, 박철수 (2019), 조도 예측 모델 기반의 조명 최적 제어, 대한건축학회 추계학술발표대회논문집, 제39권 제2호, pp.537-538, 2019년 10월 24-25일, 충남대학교, 대전
-1. **신한솔**, 추한경, 이선우, 박철수 (2019), 심층신경망 기반 외부 블라인드 최적 제어, 대한건축학회 춘계학술발표대회논문집 제39권 제1호, pp.433-434, 2019년 4월 26-27일, 고려대학교, 서울
-1. **신한솔**, 김덕우, 박철수, 이승언 (2019), 건물 에너지 사용의 비예측성 평가, 대한건축학회 춘계학술발표대회논문집 제39권 제1호, pp.435-436, 2019년 4월 26-27일, 고려대학교, 서울
-1. 추한경, **신한솔**, 김재민, 박철수, 여명석 (2018), 기계학습을 이용한 히트펌프 대수 및 교번 제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.57-58, 2018년 11월 16일, 인하대학교, 인천
-1. 김재민, **신한솔**, 추한경, 이동혁, 박성호, 여명석, 박철수 (2018), 가우시안 프로세스 모델을 이용한 냉각탑 최적제어, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.121-122, 2018년 11월 16일, 인하대학교, 인천
-1. 김재민, **신한솔**, 이동혁, 박성호, 박철수 (2018), Support Vector Data Description을 이용한 냉동기 데이터 이상치 검출, 한국건축친환경설비학회 추계학술발표대회 논문집, pp.141-142, 2018년 11월 16일, 인하대학교, 인천
-1. 김재민, 이동혁, **신한솔**, 박철수 (2018), 가우시안 프로세스 모델을 이용한 건물 에너지 사용량 진단, 대한건축학회 추계학술발표대회논문집 제38권 제2호, pp401-402, 2018년 10월 26-27일, 평창알펜시아리조트 컨벤션센터, 강원도
-1. 김재민, **신한솔**, 박성호, 안기언, 박철수 (2018), Support Vector Data Description을 이용한 기계학습 모델 예측 정확도 향상, 대한건축학회 춘계학술발표대회 논문집 제38권 제1호, pp.399-400, 2018년 4월 26-27일, 더케이호텔, 서울
-1. 추한경, **신한솔**, 안기언, 라선중, 박철수 (2018), 정규 상호정보량을 이용한 온라인 기계학습 모델 개발, 대한건축학회 춘계학술발표대회 논문집 제38권 제1호, pp.451-452, 2018년 4월 26-27일, 더케이호텔, 서울
-1. 서원준, 추한경, **신한솔**, 라선중, 박철수 (2017), 심층신경망 기반 건물 냉방 플랜트 종합 효율 최적화, 대한건축학회 추계학술발표대회 논문집 제37권 제2호, 2017년 10월 25-27일, 더케이호텔, 경주
-1. 서원준, 추한경, **신한솔**, 라선중, 박철수 (2017), 기계학습 모델 및 최적화 알고리즘 결합을 이용한 흡수식 냉동기 최적 효율 운전, 대한건축학회 추계학술발표대회 논문집 제37권 제2호, 2017년 10월 25-27일, 더케이호텔, 경주
-1. **신한솔**, 김영진, 박철수 (2017), 데이터 전처리가 기계학습 모델 예측 능력에 미치는 영향, 대한건축학회 춘계학술발표대회논문집 제37권 제1호, pp.491-492, 2017년 4월 27-28일, 해비치 호텔, 서귀포, 제주도
-1. 추한경, 서원준, **신한솔**, 라선중, 박철수 (2016), 건물 시스템에 관한 온라인 모델과 오프라인 모델의 비교, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.645-646, 2016년 10월 4-6일, BEXCO, 부산
-1. **신한솔**, 박철수 (2016), 랜덤 포레스트 모델을 위한 데이터 전처리 기법의 적용, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.633-634, 2016년 10월 4-6일, BEXCO, 부산
-1. **신한솔**, 서원준, 추한경, 라선중, 박철수 (2016), 기존건축물의 빙축열 시스템 최적 제어를 위한 기계학습 모델, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.629-630, 2016년 10월 4-6일, BEXCO, 부산
-1. 서원준, 추한경, **신한솔**, 라선중, 박철수 (2016), 유전프로그래밍 기계학습을 이용한 냉동기 실시간 최적제어, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.627-628, 2016년 10월 4-6일, BEXCO, 부산
-1. 라선중, **신한솔**, 서원준, 추한경, 박철수 (2016), 기축 건물 HVAC 시스템의 기계학습 모델 개발 및 비교, 대한건축학회 추계학술발표대회 논문집, 제36권 제2호, pp.625-626, 2016년 10월 4-6일, BEXCO, 부산
-1. **신한솔**, 윤성환, 박철수 (2016), 기존 건축물의 에너지 리트로핏 평가, 대한건축학회 춘계학술발표대회 논문집, pp.235-236, 2016년 4월 30일, 숭실대학교, 서울
-1. 윤성환, 안기언, 추한경, 김용세, 김영민, **신한솔**, 박철수 (2016) 기존 건축물의 에너지 성능 평가 모델과 에너지 사용량 예측 모델, 대한건축학회 춘계학술발표대회 논문집, pp.227-228, 2016년 4월 30일, 숭실대학교, 서울
+1. **신한솔**, 서원준, 이좌형, 도윤미 (2026), 기후변화에 따른 외기냉수냉방 절감량 분석, *대한건축학회 추계학술발표대회논문집*, pp.xxx-xxx, 2026년 10월 21-23일
+1. 김동현, 문지예, 김승현, **신한솔**, 이좌형, 도윤미, 박철수 (2026), 물리식 기반 가상센서 모델을 활용한 공조기 댐퍼 최적제어, *대한건축학회 춘계학술발표대회논문집*, pp.513-514, 2026년 4월 28-30일
+1. 최우주, **신한솔**, 김선혁 (2025), Transformer-XGBoost 모델을 활용한 계통 한계 가격 핵심 영향 요인 분석, *한국통신학회 종합학술발표회 논문집*, 2025년 11월 19-21일
+1. 김승현, 문지예, **신한솔**, 이좌형, 도윤미, 박철수 (2025), 하이브리드 AI 냉동기 모델을 활용한 냉수 시스템의 확률적 최적 제어, *한국건축친환경설비학회 추계학술발표대회 논문집*, pp.235-236, 2025년 11월 14일
+1. **신한솔**, 이좌형, 도윤미 (2025), GC-xLSTM을 이용한 실간 차압·댐퍼 인과관계 분석, *대한건축학회 추계학술발표대회논문집*, pp.541-542, 2025년 10월 29-31일
+1. 손형준, 최진영, 김선혁, 도윤미, **신한솔** (2024), 제지 생산관리시스템의 데이터 자동 수집을 위한 랜덤 포레스트 기반 이상 프로세스 및 원인 분류, *한국통신학회 인공지능 학술대회 논문집*, pp.145-146, 2024년 9월 25-28일, 소노캄 제주, 제주도
+1. 김상욱, 정운철, 이충호, 허태욱, **신한솔** (2024), 전력 예측 모델을 이용한 계절 변동성 기반 동적 계약전력 최적화, *한국통신학회 인공지능 학술대회 논문집*, pp.301-302, 2024년 9월 25-28일, 소노캄 제주, 제주도
+1. **신한솔**, 정운철, 이충호, 허태욱 (2024), 기상 데이터를 활용한 산업시설 전력 소비량의 확률적 예측, *한국통신학회 학술대회논문집*, pp.243-244, 2024년 6월 19-21일, 라마다프라자 제주호텔, 제주도
+1. **신한솔**, 이충호, 허태욱 (2024), 시계열 결측치 보간을 위한 전력 사용량의 확률적 예측, *한국통신학회 학술대회논문집*, pp.62-63, 2024년 1월 31-2월 2일, 용평리조트, 강원도
+1. 김승현, **신한솔**, 조성권, 김진홍, 박철수 (2022), 주거 건물에서 거주자 재실 상태의 예측가능성 분석, *대한건축학회 춘계학술발표대회논문집*, 제42권 제1호, pp.323-324, 2022년 4월 28-29일, 더케이호텔, 서울
+1. 라선중, 김진홍, 김영섭, 조형곤, **신한솔**, 박철수 (2021), 집중 시뮬레이션 모델을 활용한 건물의 실시간 냉방 예측 제어, *대한건축학회 추계학술발표대회논문집*, 제41권 제2호, pp.323-324, 2021년 10월 27-30일, 여수엑스포컨벤션센터, 여수, 전라남도
+1. 라선중, **신한솔**, 김영섭, 조형곤, 김진홍, 박철수 (2021), 실내온도 예측을 통한 공장 건물의 실시간 난방 제어, *대한건축학회 춘계학술발표대회논문집*, 제41권 제1호, pp.309-310, 2021년 4월 21-23일, 제주국제컨벤션센터, 서귀포, 제주도
+1. 김진홍, 조형곤, 김영섭, **신한솔**, 박철수 (2021), 인공신경망을 이용한 수평면 전 일사량 예측모델, *대한건축학회 춘계학술발표대회논문집*, 제41권 제1호, pp.288-289, 2021년 4월 21-23일, 제주국제컨벤션센터, 서귀포, 제주도
+1. 고윤담, **신한솔**, 조성권, 최영식, 박철수 (2021), 딥러닝을 활용한 가정 에너지 사용량 데이터로부터 재실자 행동 패턴 식별, *2021년도 한국통신학회 동계종합학술발표회 논문집*, pp.120-121, 2021년 2월 3-5일, 용평리조트, 평창
+1. 라선중, **신한솔**, 박철홍, 추한경, 박철수 (2020), 업무시설 AHU 시스템의 데이터 모델 기반 외기 냉방 제어, *한국건축친환경설비학회 추계학술발표대회 논문집*, pp.195-196, 2020년 11월 19-21일, 한국교통대학교, 충주
+1. 조형곤, **신한솔**, 김영섭, 박철수 (2020), 가우시안 프로세스를 이용한 실내 지점간 조도 비율 예측, *한국건축친환경설비학회 추계학술발표대회 논문집*, pp.153-154, 2020년 11월 19-21일, 한국교통대학교, 충주
+1. 조성권, **신한솔**, 김영섭, 유성호, 박철홍, 나춘수, 최기열, 박철수 (2020), 연합 모델을 이용한 강화학습 기반 병렬 냉방 시스템 최적제어, *한국건축친환경설비학회 추계학술발표대회 논문집*, pp.201-202, 2020년 11월 19-21일, 한국교통대학교, 충주
+1. 김영섭, 조형곤, **신한솔**, 박철수 (2020), DDPG 강화학습을 이용한 조명 제어, *대한건축학회 추계학술발표대회논문집*, 제40권 제2호, pp.382-383, 2020년 10월 26-30일, 여수엑스포컨벤션센터, 여수 (온라인 발표)
+1. 최영식, 이동혁, **신한솔**, 추한경, 유성호, 박철수 (2020), 전이학습을 이용한 실내 온도 예측 시뮬레이션 모델 개발, *대한건축학회 추계학술발표대회논문집*, 제40권 제2호, pp.386-387, 2020년 10월 26-30일, 여수엑스포컨벤션센터, 여수 (온라인 발표)
+1. **신한솔**, 고윤담, 조성권, 최영식, 박철수 (2020), 이종 시계열 데이터 간의 상관성 분석: 재실 스케줄과 냉방 에너지 사용량, *대한건축학회 춘계학술발표대회논문집*, 제40권 제1호, pp.288-289, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
+1. 김영섭, 김재민, **신한솔**, 박철수 (2020), 최소한의 센서와 기계학습 모델을 이용한 자연채광 조도 예측, *대한건축학회 춘계학술발표대회논문집*, 제40권 제1호, pp.293-294, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
+1. 고윤담, **신한솔**, 조성권, 최영식, 박철수 (2020), 재실자 행동에 따른 주거 건물 에너지 모델의 동적 민감도 분석의 불확실성, *대한건축학회 춘계학술발표대회논문집*, 제40권 제1호, pp.299-300, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
+1. 조성권, **신한솔**, 고윤담, 최영식, 박철수 (2020), 냉방 기간 에너지 사용량에 대한 재실자 행동의 정적 및 동적 민감도 분석, *대한건축학회 춘계학술발표대회논문집*, 제40권 제1호, pp.301-302, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
+1. 최영식, **신한솔**, 고윤담, 조성권, 박철수 (2020), Deep Ensembles를 이용한 기계학습 모델의 예측 불확실성 분석, *대한건축학회 춘계학술발표대회논문집*, 제40권 제1호, pp.290-291, 2020년 4월 24일, 더케이호텔 서울 (논문집만 발간)
+1. 김재민, 김영섭, **신한솔**, 박철수 (2019), 인공신경망을 이용한 자연채광 조도예측모델 개발, *대한건축학회 추계학술발표대회논문집*, 제39권 제2호, pp.581-582, 2019년 10월 24-25일, 충남대학교, 대전
+1. 김영섭, 김재민, **신한솔**, 박철수 (2019), 조도 예측 모델 기반의 조명 최적 제어, *대한건축학회 추계학술발표대회논문집*, 제39권 제2호, pp.537-538, 2019년 10월 24-25일, 충남대학교, 대전
+1. **신한솔**, 추한경, 이선우, 박철수 (2019), 심층신경망 기반 외부 블라인드 최적 제어, *대한건축학회 춘계학술발표대회논문집* 제39권 제1호, pp.433-434, 2019년 4월 26-27일, 고려대학교, 서울
+1. **신한솔**, 김덕우, 박철수, 이승언 (2019), 건물 에너지 사용의 비예측성 평가, *대한건축학회 춘계학술발표대회논문집* 제39권 제1호, pp.435-436, 2019년 4월 26-27일, 고려대학교, 서울
+1. 추한경, **신한솔**, 김재민, 박철수, 여명석 (2018), 기계학습을 이용한 히트펌프 대수 및 교번 제어, *한국건축친환경설비학회 추계학술발표대회 논문집*, pp.57-58, 2018년 11월 16일, 인하대학교, 인천
+1. 김재민, **신한솔**, 추한경, 이동혁, 박성호, 여명석, 박철수 (2018), 가우시안 프로세스 모델을 이용한 냉각탑 최적제어, *한국건축친환경설비학회 추계학술발표대회 논문집*, pp.121-122, 2018년 11월 16일, 인하대학교, 인천
+1. 김재민, **신한솔**, 이동혁, 박성호, 박철수 (2018), Support Vector Data Description을 이용한 냉동기 데이터 이상치 검출, *한국건축친환경설비학회 추계학술발표대회 논문집*, pp.141-142, 2018년 11월 16일, 인하대학교, 인천
+1. 김재민, 이동혁, **신한솔**, 박철수 (2018), 가우시안 프로세스 모델을 이용한 건물 에너지 사용량 진단, *대한건축학회 추계학술발표대회논문집* 제38권 제2호, pp401-402, 2018년 10월 26-27일, 평창알펜시아리조트 컨벤션센터, 강원도
+1. 김재민, **신한솔**, 박성호, 안기언, 박철수 (2018), Support Vector Data Description을 이용한 기계학습 모델 예측 정확도 향상, *대한건축학회 춘계학술발표대회 논문집* 제38권 제1호, pp.399-400, 2018년 4월 26-27일, 더케이호텔, 서울
+1. 추한경, **신한솔**, 안기언, 라선중, 박철수 (2018), 정규 상호정보량을 이용한 온라인 기계학습 모델 개발, *대한건축학회 춘계학술발표대회 논문집* 제38권 제1호, pp.451-452, 2018년 4월 26-27일, 더케이호텔, 서울
+1. 서원준, 추한경, **신한솔**, 라선중, 박철수 (2017), 심층신경망 기반 건물 냉방 플랜트 종합 효율 최적화, *대한건축학회 추계학술발표대회 논문집* 제37권 제2호, 2017년 10월 25-27일, 더케이호텔, 경주
+1. 서원준, 추한경, **신한솔**, 라선중, 박철수 (2017), 기계학습 모델 및 최적화 알고리즘 결합을 이용한 흡수식 냉동기 최적 효율 운전, *대한건축학회 추계학술발표대회 논문집* 제37권 제2호, 2017년 10월 25-27일, 더케이호텔, 경주
+1. **신한솔**, 김영진, 박철수 (2017), 데이터 전처리가 기계학습 모델 예측 능력에 미치는 영향, *대한건축학회 춘계학술발표대회논문집* 제37권 제1호, pp.491-492, 2017년 4월 27-28일, 해비치 호텔, 서귀포, 제주도
+1. 추한경, 서원준, **신한솔**, 라선중, 박철수 (2016), 건물 시스템에 관한 온라인 모델과 오프라인 모델의 비교, *대한건축학회 추계학술발표대회 논문집*, 제36권 제2호, pp.645-646, 2016년 10월 4-6일, BEXCO, 부산
+1. **신한솔**, 박철수 (2016), 랜덤 포레스트 모델을 위한 데이터 전처리 기법의 적용, *대한건축학회 추계학술발표대회 논문집*, 제36권 제2호, pp.633-634, 2016년 10월 4-6일, BEXCO, 부산
+1. **신한솔**, 서원준, 추한경, 라선중, 박철수 (2016), 기존건축물의 빙축열 시스템 최적 제어를 위한 기계학습 모델, *대한건축학회 추계학술발표대회 논문집*, 제36권 제2호, pp.629-630, 2016년 10월 4-6일, BEXCO, 부산
+1. 서원준, 추한경, **신한솔**, 라선중, 박철수 (2016), 유전프로그래밍 기계학습을 이용한 냉동기 실시간 최적제어, *대한건축학회 추계학술발표대회 논문집*, 제36권 제2호, pp.627-628, 2016년 10월 4-6일, BEXCO, 부산
+1. 라선중, **신한솔**, 서원준, 추한경, 박철수 (2016), 기축 건물 HVAC 시스템의 기계학습 모델 개발 및 비교, *대한건축학회 추계학술발표대회 논문집*, 제36권 제2호, pp.625-626, 2016년 10월 4-6일, BEXCO, 부산
+1. **신한솔**, 윤성환, 박철수 (2016), 기존 건축물의 에너지 리트로핏 평가, *대한건축학회 춘계학술발표대회 논문집*, pp.235-236, 2016년 4월 30일, 숭실대학교, 서울
+1. 윤성환, 안기언, 추한경, 김용세, 김영민, **신한솔**, 박철수 (2016) 기존 건축물의 에너지 성능 평가 모델과 에너지 사용량 예측 모델, *대한건축학회 춘계학술발표대회 논문집*, pp.227-228, 2016년 4월 30일, 숭실대학교, 서울
 
 ### 학회지 (Journal)
 
-1. 박철수, 서원준, **신한솔**, 추한경, 라선중 (2017), 기계학습 시뮬레이션 모델을 이용한 설비시스템 최적제어, 설비:공조.냉동.위생(Journal of the KARSE), Vol.34, No.1, pp.68-83, 한국설비기술협회(ISSN: 1739-1024)
+1. 박철수, 서원준, **신한솔**, 추한경, 라선중 (2017), 기계학습 시뮬레이션 모델을 이용한 설비시스템 최적제어, *설비:공조.냉동.위생(Journal of the KARSE)*, Vol.34, No.1, pp.68-83, 한국설비기술협회(ISSN: 1739-1024)
 
 ## Patents
 
 ### International patents
-1. 이형섭, 허태욱, **신한솔**, 정훈, "PHOTONIC ENERGY PULSE BUFFER DEVICE, PHOTONIC SENSOR SYSTEM COMPRISING THE SAME, AND PHOTONIC ENERGY PULSE CONTROL METHOD", 미국, 출원번호 19/813,773, 출원일 2026-09-21 (우선권 주장: 한국 10-2025-0150700, 2025-10-17 및 10-2026-0074839, 2026-04-24)
-1. **신한솔**, 방수식, 도윤미, 이종재, 이창원, 박홍기, 정기범, "PIPELINE DEFECT MONITORING DEVICE AND METHOD", 미국, 출원번호 19/712,775, 출원일 2026-06-18 (우선권 주장: 한국 10-2025-0121527, 2025-08-28)
-1. 서원준, **신한솔**, 추한경, 박철수, "METHOD AND DEVICE FOR OPTIMALLY CONTROLLING REFRIGERATOR THROUGH BUILDING ENERGY MANAGEMENT SYSTEM", PCT, 출원번호 PCT/KR2017/007133, 출원일 2017-07-05, 공개번호 WO 2018/016776 A1 (우선권 주장: 한국 10-2016-0092772, 2016-07-21 및 10-2016-0098519, 2016-08-02)
+1. 이형섭, 허태욱, **신한솔**, 정훈, "PHOTONIC ENERGY PULSE BUFFER DEVICE, PHOTONIC SENSOR SYSTEM COMPRISING THE SAME, AND PHOTONIC ENERGY PULSE CONTROL METHOD", 미국, 출원번호 19/813,773, 출원일 2026-09-21
+1. **신한솔**, 방수식, 도윤미, 이종재, 이창원, 박홍기, 정기범, "PIPELINE DEFECT MONITORING DEVICE AND METHOD", 미국, 출원번호 19/712,775, 출원일 2026-06-18
+1. 서원준, **신한솔**, 추한경, 박철수, "METHOD AND DEVICE FOR OPTIMALLY CONTROLLING REFRIGERATOR THROUGH BUILDING ENERGY MANAGEMENT SYSTEM", PCT, 출원번호 PCT/KR2017/007133, 출원일 2017-07-05, 공개번호 WO 2018/016776 A1
 
 ### Korean patents
-1. 허태욱, **신한솔**, 이형섭, 이상금, 박준성, "심층 강화학습 기반 개방 양자배터리의 충전 레짐 다이어그램 매핑 장치 및 방법", 한국, 출원번호 10-2026-0164529, 출원일 2026-08-31
-1. **신한솔**, 이형섭, 허태욱, 이상금, 박범도, "물리 기반 국소성 편향을 갖는 구조 인식 그래프 트랜스포머 기반 확장형 양자 배터리 제어 시스템 및 그 방법", 한국, 출원번호 10-2026-0164528, 출원일 2026-08-31
-1. 이형섭, **신한솔**, 허태욱, 이상금, 장현석, "계층적 강화학습 기반 양자 에너지 저장장치의 목표 공간 적대적 방어 시스템 및 방법", 한국, 출원번호 10-2026-0164527, 출원일 2026-08-31
-1. 정운철, **신한솔**, 이충호, 허태욱, "시계열 데이터를 분석하는 전자 장치 및 그 동작 방법", 한국, 출원번호 10-2026-0083158, 출원일 2026-05-08
-1. 이형섭, 허태욱, **신한솔**, 정훈, "포토닉 에너지 펄스 버퍼 장치, 이를 포함하는 포토닉 센서 시스템 및 포토닉 에너지 펄스 제어 방법", 한국, 출원번호 10-2026-0074839, 출원일 2026-04-24
-1. 이좌형, **신한솔**, 도윤미, 이창원, "다중 온도 레벨 축열조 탱크 기반 변온 냉수 공급 시스템 및 그 장치", 한국, 출원번호 10-2026-0010772, 출원일 2026-01-20
-1. **신한솔**, 방수식, 도윤미, 이종재, 이창원, 박홍기, 정기범, "배관 결함 감시 장치 및 방법", 한국, 출원번호 10-2025-0121527, 출원일 2025-08-28
-1. **신한솔**, 방수식, 김선혁, 도윤미, 이슬인, 최영은, "압전 트랜스듀서 어레이", 한국, 출원번호 10-2025-0101664, 출원일 2025-07-25
-1. 이충호, **신한솔**, 정운철, 허태욱, "스트림 데이터 처리 장치 및 그 방법", 한국, 출원번호 10-2025-0063354, 출원일 2025-05-15
-1. **신한솔**, 김선혁, 도윤미, 방수식, 이슬인, 최영은, "유도 초음파 생성 및 계측을 위한 장치", 한국, 출원번호 10-2024-0100584, 출원일 2024-07-29
-1. 박철수, **신한솔**, 김재민, 김영섭, 특허 제10-2248889호, "작업면 상에 유입되는 조도를 결정하는 방법 및 장치", 한국, 출원번호 10-2019-0152237, 출원일 2019-11-25, 등록일 2021-04-29 (관리번호: SNU-2019-11959)
-1. 박철수, **신한솔**, 서원준, 추한경, 라선중, "데이터 기반 모델 평가 및 이를 이용한 캡슐형 빙축열 시스템 예측제어 방법", 한국, 출원번호 10-2017-0078508, 출원일 2017-06-21
-1. 박철수, 추한경, 서원준, **신한솔**, 라선중, "오프라인/온라인 하이브리드 기계학습 모델을 이용한 냉동기 최적 제어 방법", 한국, 출원번호 10-2017-0078509, 출원일 2017-06-21
-1. 박철수, **신한솔**, 서원준, 추한경, 특허 제10-1727434호, "랜덤 포레스트 모델을 이용한 냉동기의 성능 판단 방법", 한국, 출원번호 10-2016-0098519, 출원일 2016-08-02, 등록일 2017-04-10
-1. 박철수, 서원준, **신한솔**, 추한경, 특허 제10-1754536호, "건물 에너지 관리 시스템을 통한 냉동기의 최적 제어 방법 및 장치", 한국, 출원번호 10-2016-0092772, 출원일 2016-07-21, 등록일 2017-06-29
+1. 허태욱, **신한솔**, 이형섭, 이상금, 박준성, "심층 강화학습 기반 개방 양자배터리의 충전 레짐 다이어그램 매핑 장치 및 방법", 출원번호 10-2026-0164529, 출원일 2026-08-31
+1. **신한솔**, 이형섭, 허태욱, 이상금, 박범도, "물리 기반 국소성 편향을 갖는 구조 인식 그래프 트랜스포머 기반 확장형 양자 배터리 제어 시스템 및 그 방법", 출원번호 10-2026-0164528, 출원일 2026-08-31
+1. 이형섭, **신한솔**, 허태욱, 이상금, 장현석, "계층적 강화학습 기반 양자 에너지 저장장치의 목표 공간 적대적 방어 시스템 및 방법", 출원번호 10-2026-0164527, 출원일 2026-08-31
+1. 정운철, **신한솔**, 이충호, 허태욱, "시계열 데이터를 분석하는 전자 장치 및 그 동작 방법", 출원번호 10-2026-0083158, 출원일 2026-05-08
+1. 이형섭, 허태욱, **신한솔**, 정훈, "포토닉 에너지 펄스 버퍼 장치, 이를 포함하는 포토닉 센서 시스템 및 포토닉 에너지 펄스 제어 방법", 출원번호 10-2026-0074839, 출원일 2026-04-24
+1. 이좌형, **신한솔**, 도윤미, 이창원, "다중 온도 레벨 축열조 탱크 기반 변온 냉수 공급 시스템 및 그 장치", 출원번호 10-2026-0010772, 출원일 2026-01-20
+1. **신한솔**, 방수식, 도윤미, 이종재, 이창원, 박홍기, 정기범, "배관 결함 감시 장치 및 방법", 출원번호 10-2025-0121527, 출원일 2025-08-28
+1. **신한솔**, 방수식, 김선혁, 도윤미, 이슬인, 최영은, "압전 트랜스듀서 어레이", 출원번호 10-2025-0101664, 출원일 2025-07-25
+1. 이충호, **신한솔**, 정운철, 허태욱, "스트림 데이터 처리 장치 및 그 방법", 출원번호 10-2025-0063354, 출원일 2025-05-15
+1. **신한솔**, 김선혁, 도윤미, 방수식, 이슬인, 최영은, "유도 초음파 생성 및 계측을 위한 장치", 출원번호 10-2024-0100584, 출원일 2024-07-29
+1. 박철수, **신한솔**, 김재민, 김영섭, 특허 제10-2248889호, "작업면 상에 유입되는 조도를 결정하는 방법 및 장치", 출원번호 10-2019-0152237, 출원일 2019-11-25, 등록일 2021-04-29 (관리번호: SNU-2019-11959)
+1. 박철수, **신한솔**, 서원준, 추한경, 라선중, "데이터 기반 모델 평가 및 이를 이용한 캡슐형 빙축열 시스템 예측제어 방법", 출원번호 10-2017-0078508, 출원일 2017-06-21
+1. 박철수, 추한경, 서원준, **신한솔**, 라선중, "오프라인/온라인 하이브리드 기계학습 모델을 이용한 냉동기 최적 제어 방법", 출원번호 10-2017-0078509, 출원일 2017-06-21
+1. 박철수, **신한솔**, 서원준, 추한경, 특허 제10-1727434호, "랜덤 포레스트 모델을 이용한 냉동기의 성능 판단 방법", 출원번호 10-2016-0098519, 출원일 2016-08-02, 등록일 2017-04-10
+1. 박철수, 서원준, **신한솔**, 추한경, 특허 제10-1754536호, "건물 에너지 관리 시스템을 통한 냉동기의 최적 제어 방법 및 장치", 출원번호 10-2016-0092772, 출원일 2016-07-21, 등록일 2017-06-29
 
 ## 프로그램 등록
 
-1. 김태영, **신한솔**, "건물에너지 경험저장소 경험카드 생성 프로그램", 한국, 등록번호 C-2026-XXXXXX, 등록일 2026-XX-XX [저작권은 한국전자통신연구원이 지님]
-1. 이좌형, **신한솔**, "건설정보모델링 온톨로지 기반 건물 데이터 가용성 진단 프로그램", 한국, 등록번호 C-2026-055675, 등록일 2026-10-30 [저작권은 한국전자통신연구원이 지님]
-1. 이좌형, 도윤미, **신한솔**, 이창원, "프리쿨링운영최적화", 한국, 등록번호 C-2025-056520, 등록일 2025-12-10 [저작권은 한국전자통신연구원이 지님]
-1. **신한솔**, 도윤미, 이종재, 이창원, "인공지능 기반 배관 결함 감시 프로그램", 한국, 등록번호 C-2025-047742, 등록일 2025-11-06 [저작권은 한국전자통신연구원이 지님]
-1. **신한솔**, 김선혁, 도윤미, "유도초음파 기반 배관 결함위치 탐지 프로그램", 한국, 등록번호 C-2024-050674, 등록일 2024-12-05 [저작권은 한국전자통신연구원이 지님]
-1. 박철수, 이건호, 김덕우, **신한솔**, “유사건물 간 에너지 소비량 비교를 이용한 에너지 소비현황 간이진단 툴(E-Scope)”, 한국, 등록번호 C-2016-034192, 등록일 2016-12-26 [저작권은 성균관대학교가 지님]
-1. 박철수, **신한솔**, "웹기반 건축물 에너지 간이 진단 프로그램", 한국, 등록번호 C-2015-009213, 등록일 2015-04-20 [저작권은 성균관대학교가 지님]
+1. 김태영, **신한솔**, "건물에너지 경험저장소 경험카드 생성 프로그램", 등록번호 C-2026-XXXXXX, 등록일 2026-XX-XX [저작권은 한국전자통신연구원이 지님]
+1. 이좌형, **신한솔**, "건설정보모델링 온톨로지 기반 건물 데이터 가용성 진단 프로그램", 등록번호 C-2026-055675, 등록일 2026-10-30 [저작권은 한국전자통신연구원이 지님]
+1. 이좌형, 도윤미, **신한솔**, 이창원, "프리쿨링운영최적화", 등록번호 C-2025-056520, 등록일 2025-12-10 [저작권은 한국전자통신연구원이 지님]
+1. **신한솔**, 도윤미, 이종재, 이창원, "인공지능 기반 배관 결함 감시 프로그램", 등록번호 C-2025-047742, 등록일 2025-11-06 [저작권은 한국전자통신연구원이 지님]
+1. **신한솔**, 김선혁, 도윤미, "유도초음파 기반 배관 결함위치 탐지 프로그램", 등록번호 C-2024-050674, 등록일 2024-12-05 [저작권은 한국전자통신연구원이 지님]
+1. 박철수, 이건호, 김덕우, **신한솔**, "유사건물 간 에너지 소비량 비교를 이용한 에너지 소비현황 간이진단 툴(E-Scope)", 등록번호 C-2016-034192, 등록일 2016-12-26 [저작권은 성균관대학교가 지님]
+1. 박철수, **신한솔**, "웹기반 건축물 에너지 간이 진단 프로그램", 등록번호 C-2015-009213, 등록일 2015-04-20 [저작권은 성균관대학교가 지님]
 
 ## 기술이전
 
